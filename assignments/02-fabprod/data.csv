@@ -1,0 +1,1001 @@
+id,date_time,state,quantity,product,unit_price,total_price
+99d57a23-39b4-487c-873e-87db98909521,03/23/2023 03:02:50,rio grande do sul,55,removedor de insetos,19.9,1094.5
+e55a0b92-52a0-40ae-9c00-36d1c3880716,01/26/2023 16:47:26,rio grande do sul,8,polidor de metais automotivo,39.9,319.2
+59312d86-dd98-405d-9ff5-c3bb3293e96f,02/04/2023 19:10:22,paraná,68,limpa-tapetes automotivo,34.9,2373.2
+84acdcec-c58c-42f5-9a3f-0388b472bc07,03/27/2023 13:14:36,rio grande do sul,17,removedor de insetos,19.9,338.3
+eaff696f-edea-4877-970e-ee2f288d48fb,03/15/2023 14:52:17,rio grande do sul,34,cera automotiva,39.9,1356.6
+c2c595de-46eb-48e5-852b-c23d92b75da1,03/09/2023 07:40:00,paraná,6,cera automotiva,39.9,239.4
+437fb404-2280-4475-854f-71be38320401,02/07/2023 15:15:42,santa catarina,63,polidor de metais automotivo,39.9,2513.7
+e00868e4-f41c-4cb9-a604-f0d445671d78,04/25/2023 00:16:29,santa catarina,31,limpa-estofados automotivo,49.9,1546.9
+5ea8ef80-ecc8-4de9-b3b4-cd6b905ac798,01/07/2023 12:47:32,paraná,9,cera automotiva,39.9,359.1
+1c1682b9-6383-4d07-9920-a435310cea47,02/07/2023 12:54:38,paraná,46,polidor de metais automotivo,39.9,1835.4
+a98bf5ce-509b-4163-bbc1-9af03e6b3d5c,03/08/2023 07:39:19,rio grande do sul,62,polidor de metais automotivo,39.9,2473.8
+10b121cd-8271-4d23-bfde-d1aff637c887,04/18/2023 13:06:51,santa catarina,66,cera automotiva,39.9,2633.4
+1c64312b-dec2-407f-b846-d19cb8e4891a,01/25/2023 19:54:57,paraná,41,limpa-estofados automotivo,49.9,2045.9
+e3f9d193-9ebb-4278-84fc-3cbd8c543767,01/24/2023 19:32:02,santa catarina,19,limpa-vidros automotivo,19.9,378.1
+082af1df-1f06-4397-affd-136ea230cc57,03/21/2023 04:35:14,rio grande do sul,70,shampoo para carros,29.9,2093.0
+3b344147-f9bc-4d00-9a3b-ef7e15bd649b,02/24/2023 09:49:38,santa catarina,56,limpa-rodas,24.9,1394.4
+3bda1c69-597b-4d2b-b22e-f77115332af5,03/31/2023 23:44:08,paraná,9,limpa-vidros automotivo,19.9,179.1
+67b04e11-12f7-45d8-b2fb-d3da76e70ea1,03/07/2023 00:54:45,santa catarina,54,limpa-estofados automotivo,49.9,2694.6
+75ef1a99-073e-4f0c-b46d-6ee735905304,04/06/2023 19:28:24,santa catarina,72,limpa-estofados automotivo,49.9,3592.8
+0591ad92-b837-436d-bff8-aab3e9c4e0ad,03/09/2023 01:57:47,rio grande do sul,49,polidor de metais automotivo,39.9,1955.1
+6e8226d4-533f-405a-8166-b9491fcade25,03/10/2023 12:20:29,paraná,47,condicionador de couro automotivo,49.9,2345.3
+64d5a62e-122a-4772-9f4a-8f7026e69b21,03/01/2023 13:41:01,rio grande do sul,66,removedor de insetos,19.9,1313.4
+f70d50dc-0c64-44ba-bf63-8981676b395b,04/12/2023 00:06:02,paraná,2,shampoo para carros,29.9,59.8
+45bca1c8-6169-4983-a184-c8bfd9f92eff,02/09/2023 11:45:43,rio grande do sul,91,cera automotiva,39.9,3630.9
+2e988677-c21a-4781-93ad-dc7ff9acdae9,03/30/2023 22:30:28,paraná,75,desodorizador de ar automotivo,14.9,1117.5
+15450c3c-2656-4180-b09b-c88b1e23320e,01/16/2023 08:20:07,santa catarina,96,cera automotiva,39.9,3830.4
+9afe775e-acdb-48ea-b61e-666796b7d469,02/16/2023 20:33:08,santa catarina,3,condicionador de couro automotivo,49.9,149.7
+f9a7367b-179b-4bcd-839b-1c3fa4c7e3a1,02/26/2023 17:04:09,paraná,12,desodorizador de ar automotivo,14.9,178.8
+6db37da7-dc7a-4a3d-8151-25ed3e385132,04/05/2023 02:55:31,santa catarina,23,shampoo para carros,29.9,687.7
+fb0af553-3b54-44a6-8f6e-e6b7c3bd5a3f,01/20/2023 08:33:01,paraná,46,limpa-vidros automotivo,19.9,915.4
+18d9c2fd-125a-4c95-9e3f-86a3060767f9,03/25/2023 15:08:21,santa catarina,86,shampoo para carros,29.9,2571.4
+c8f413f0-e559-4bce-8da6-7781bede3f01,02/11/2023 07:02:39,rio grande do sul,97,polidor de metais automotivo,39.9,3870.3
+9c89b372-5523-41e9-bedc-991ffae3fbfe,03/15/2023 12:12:31,santa catarina,6,limpa-estofados automotivo,49.9,299.4
+d2e112a7-25e9-4b60-be7a-f983e76ab396,03/19/2023 21:20:39,paraná,52,shampoo para carros,29.9,1554.8
+d815a308-62f3-4e93-8889-65499ea30499,03/17/2023 22:42:42,rio grande do sul,40,desodorizador de ar automotivo,14.9,596.0
+9602145c-3e81-4f57-b871-107aaa1bc9e2,03/22/2023 05:42:30,paraná,24,polidor de metais automotivo,39.9,957.6
+c010b594-9fcb-4435-b1e0-5179809fcf94,01/02/2023 00:14:22,rio grande do sul,20,limpa-estofados automotivo,49.9,998.0
+bd1ac030-62ab-4dad-aabf-b97f8d6d49e0,04/21/2023 21:46:34,paraná,26,removedor de insetos,19.9,517.4
+bdb5a39b-99a4-4f79-922b-2a42ed8995f7,02/15/2023 01:13:17,rio grande do sul,62,limpa-tapetes automotivo,34.9,2163.8
+a6277607-e1b2-4e60-b8a2-7b43823f74ec,02/15/2023 07:51:49,paraná,71,limpa-vidros automotivo,19.9,1412.9
+98cfe9de-3f76-4b9d-8ee4-829cab2a2069,03/25/2023 12:14:54,paraná,77,condicionador de couro automotivo,49.9,3842.3
+5853be7b-1864-4f6f-bd9e-277b104588e3,01/26/2023 23:21:24,paraná,52,limpa-estofados automotivo,49.9,2594.8
+a3305e89-9dd4-4063-bd25-13c04bbc2f46,01/22/2023 06:45:13,santa catarina,18,limpa-estofados automotivo,49.9,898.2
+aac3bae5-3394-41e3-a175-0d00120b8e1d,01/06/2023 23:50:48,santa catarina,32,limpa-vidros automotivo,19.9,636.8
+1a1f1e2e-00c0-4f0a-a26f-6a7a4bc9072d,01/29/2023 01:26:44,paraná,22,condicionador de couro automotivo,49.9,1097.8
+fe09602c-e11c-4fa6-92e4-0d9328b244e6,04/12/2023 02:56:00,rio grande do sul,11,limpa-rodas,24.9,273.9
+0463d2aa-a6ff-4295-a305-81becbbd6196,01/06/2023 18:23:52,rio grande do sul,78,limpa-rodas,24.9,1942.2
+82f6074a-f2ef-4637-b51d-a1db429c1975,01/06/2023 18:21:34,paraná,99,limpa-rodas,24.9,2465.1
+697f03b9-1a47-41e8-b3fa-94188f4c3ff7,01/16/2023 11:13:05,paraná,58,limpa-estofados automotivo,49.9,2894.2
+83053fa3-e337-4819-be86-f72c27536d24,02/04/2023 22:53:14,paraná,1,limpa-tapetes automotivo,34.9,34.9
+7c4b9605-1926-4c93-82a6-1158302afb5f,01/06/2023 10:46:51,paraná,14,limpa-vidros automotivo,19.9,278.6
+eb068500-2c57-4fba-9f62-4992480aac81,04/22/2023 23:50:07,paraná,70,limpa-vidros automotivo,19.9,1393.0
+b903dea6-39da-43b5-952c-6fcae7513204,03/09/2023 20:02:45,paraná,98,polidor de metais automotivo,39.9,3910.2
+664bcbe7-1568-4169-992b-8f67bc3f8303,01/20/2023 08:37:14,paraná,72,cera automotiva,39.9,2872.8
+593126fd-630a-40b5-b1ac-a4d93799b6e8,04/13/2023 13:40:22,santa catarina,76,condicionador de couro automotivo,49.9,3792.4
+57ace0ef-37f3-4da5-a568-c56bca34bb14,03/24/2023 00:45:15,paraná,39,removedor de insetos,19.9,776.1
+70c203b9-ad59-4eba-a5e4-a588db1a6e7e,01/07/2023 15:19:11,paraná,28,condicionador de couro automotivo,49.9,1397.2
+87d2a9ef-5015-458c-83c0-1575a34cf7e6,01/21/2023 22:08:17,rio grande do sul,27,limpa-vidros automotivo,19.9,537.3
+2497f19b-77f8-4ade-92c2-c7fe355e5f7e,01/09/2023 16:11:20,santa catarina,9,shampoo para carros,29.9,269.1
+5346e586-e60f-403d-a90e-ae98143a2094,02/28/2023 06:16:17,rio grande do sul,42,limpa-vidros automotivo,19.9,835.8
+4ae04ef2-3daa-456f-9e3a-8f7e4c3a907b,04/03/2023 03:13:39,santa catarina,4,limpa-rodas,24.9,99.6
+5e344a35-047e-4cf5-97c4-7b1d4c9b67ce,03/28/2023 07:08:14,paraná,57,cera automotiva,39.9,2274.3
+4ea93ca9-3de0-490d-8dff-854bf96bfd5b,01/14/2023 22:06:14,paraná,46,desodorizador de ar automotivo,14.9,685.4
+58e47fdb-f0db-4f59-afc8-b952a620db95,02/22/2023 19:14:14,rio grande do sul,93,limpa-tapetes automotivo,34.9,3245.7
+e267e77e-5726-4dce-9b54-e700ac7d1cdf,01/15/2023 02:50:56,paraná,20,limpa-estofados automotivo,49.9,998.0
+ce0548d1-c013-4f9b-833b-02462166c903,01/14/2023 21:23:54,santa catarina,91,limpa-rodas,24.9,2265.9
+6ece2d18-c621-41a3-8f4f-1ee0f284924c,01/16/2023 11:58:27,rio grande do sul,71,limpa-tapetes automotivo,34.9,2477.9
+cbc7b581-8ac5-4910-ac26-028cad0cabd9,03/05/2023 14:05:29,paraná,26,shampoo para carros,29.9,777.4
+6ae6e8d6-57d4-438e-a356-ca34ad812097,01/26/2023 14:52:05,santa catarina,100,polidor de metais automotivo,39.9,3990.0
+da46257c-3773-4277-a43e-d9ea5a6adf6e,03/14/2023 19:01:54,rio grande do sul,3,removedor de insetos,19.9,59.7
+c4420ec6-97c8-4f76-9b26-684c66fbd922,01/04/2023 19:02:07,rio grande do sul,50,desodorizador de ar automotivo,14.9,745.0
+4d773938-ab88-478e-852f-1b16a0d3c076,02/22/2023 03:57:18,paraná,93,condicionador de couro automotivo,49.9,4640.7
+f9989120-7684-4cc6-9ceb-676f0e95cc35,03/29/2023 23:59:36,paraná,99,shampoo para carros,29.9,2960.1
+f75177e1-3258-43d9-af26-4ca538eb25b6,04/13/2023 20:03:26,rio grande do sul,19,polidor de metais automotivo,39.9,758.1
+ea29e931-9ec3-4a98-9262-9c1a98130717,02/25/2023 23:51:41,santa catarina,9,limpa-vidros automotivo,19.9,179.1
+b51df689-39d2-46e9-a20c-2016f8e7d2c9,04/16/2023 20:55:47,paraná,48,polidor de metais automotivo,39.9,1915.2
+e351d21c-1e94-4aa8-a087-f49e436f7423,02/26/2023 17:34:20,paraná,67,shampoo para carros,29.9,2003.3
+c4928c1e-a81f-48f3-ad5f-070fc67a6a0a,04/20/2023 03:17:17,santa catarina,65,limpa-estofados automotivo,49.9,3243.5
+a1a0b17d-e3d0-45d3-9d89-256b4b406b25,02/12/2023 10:45:10,santa catarina,1,removedor de insetos,19.9,19.9
+8c481d8c-2233-4722-aa67-23499e316acc,03/18/2023 16:55:41,santa catarina,75,polidor de metais automotivo,39.9,2992.5
+89bac3bc-8997-4d92-819c-97e08173df62,02/13/2023 05:31:38,rio grande do sul,87,limpa-tapetes automotivo,34.9,3036.3
+de3e919b-88f0-44a4-9a5f-0f0b4072aa19,02/25/2023 21:19:18,santa catarina,33,cera automotiva,39.9,1316.7
+9ffe2e91-e2af-4bb1-9ec5-1dc81d9f24db,02/10/2023 03:22:19,rio grande do sul,48,limpa-estofados automotivo,49.9,2395.2
+4f7775ee-3e52-441a-a988-86d93abb926c,02/01/2023 23:29:17,paraná,75,limpa-tapetes automotivo,34.9,2617.5
+84070556-9a14-40bb-a1cc-66134a1e39e1,03/07/2023 21:24:36,santa catarina,24,condicionador de couro automotivo,49.9,1197.6
+18708567-0434-4a34-8cc2-91a9850c4615,02/10/2023 21:38:35,rio grande do sul,43,shampoo para carros,29.9,1285.7
+236228d4-6822-4208-8170-c3863f61a10f,01/16/2023 09:36:09,santa catarina,90,desodorizador de ar automotivo,14.9,1341.0
+2a083a89-0cfd-4f9c-8fa8-0fce485325ce,03/26/2023 23:13:47,rio grande do sul,10,removedor de insetos,19.9,199.0
+b7a46563-37ed-4ebf-90e0-5b092236aa9d,02/09/2023 06:03:53,rio grande do sul,95,shampoo para carros,29.9,2840.5
+e9dbb75e-a4d9-438c-8a40-f5b2842fe6c8,01/16/2023 15:26:21,rio grande do sul,48,limpa-vidros automotivo,19.9,955.2
+b3c18d4b-aa8e-4ce1-b49a-2165070ce25b,01/02/2023 07:06:50,paraná,88,shampoo para carros,29.9,2631.2
+f4d9b2f5-a0de-4545-a66b-ee36720767b1,02/15/2023 23:33:37,rio grande do sul,56,limpa-vidros automotivo,19.9,1114.4
+6cdb4507-2a60-449b-95c2-f2ac7b856f14,04/24/2023 04:00:03,paraná,45,limpa-rodas,24.9,1120.5
+0e12a96a-1f04-4537-857b-dc65005de094,01/11/2023 14:34:57,paraná,2,limpa-tapetes automotivo,34.9,69.8
+bbb9bce5-623f-4a9e-a843-f4f48691c60e,02/18/2023 02:48:21,paraná,79,cera automotiva,39.9,3152.1
+9e8f5707-b938-4e58-a381-c1e2826bfe08,01/31/2023 18:04:10,santa catarina,45,limpa-rodas,24.9,1120.5
+9215dbde-a82a-4be6-a217-3d61e904328f,01/13/2023 08:39:32,santa catarina,45,condicionador de couro automotivo,49.9,2245.5
+5cb3662d-5756-4763-80db-534a4082be0b,01/23/2023 06:06:48,santa catarina,39,limpa-rodas,24.9,971.1
+f899d92c-2ce3-4e7c-800e-8f327ca05ac2,04/28/2023 10:31:35,santa catarina,4,condicionador de couro automotivo,49.9,199.6
+ede08a74-64e9-4d3b-afdb-cc0e9c939ff3,01/23/2023 20:25:18,rio grande do sul,96,limpa-vidros automotivo,19.9,1910.4
+405a4e56-0b68-4270-ab93-f399e735122a,01/26/2023 01:32:28,rio grande do sul,70,cera automotiva,39.9,2793.0
+4854a55a-a61c-4269-a849-8dc6d8d0d1fc,02/17/2023 21:03:55,paraná,64,polidor de metais automotivo,39.9,2553.6
+3da8448f-f7e1-4a0b-88e3-e4c359fe484d,04/26/2023 14:45:30,santa catarina,75,shampoo para carros,29.9,2242.5
+71a15795-dd1c-4bc0-8917-d3991fdcb289,04/29/2023 13:25:26,santa catarina,46,limpa-tapetes automotivo,34.9,1605.4
+ba8f5b3e-010f-4306-85f2-b272a34194ce,01/26/2023 13:03:40,santa catarina,19,limpa-tapetes automotivo,34.9,663.1
+ebc153c1-14c1-4404-b32f-df2e6d343c7b,03/09/2023 20:35:08,rio grande do sul,36,condicionador de couro automotivo,49.9,1796.4
+61665809-27c6-4098-a499-0b15949acd6a,03/11/2023 00:20:38,santa catarina,60,condicionador de couro automotivo,49.9,2994.0
+d33102d8-8d75-4898-aa82-5500026e93f3,03/02/2023 06:07:31,santa catarina,51,polidor de metais automotivo,39.9,2034.9
+e9f07344-7444-4d65-9671-baa14061ac20,02/19/2023 08:28:39,rio grande do sul,72,limpa-tapetes automotivo,34.9,2512.8
+9a3da20a-f1f8-48a4-9ddf-7b826bc51748,03/03/2023 06:58:08,paraná,67,limpa-tapetes automotivo,34.9,2338.3
+b7d56bc5-2902-4c67-ac78-e66001e72d5b,02/21/2023 14:44:39,paraná,89,cera automotiva,39.9,3551.1
+91581d17-4c51-4912-936f-f8bdfe028d7b,04/20/2023 11:56:20,paraná,88,limpa-estofados automotivo,49.9,4391.2
+dd58b637-ad26-43ff-b54f-e48d56a3d2da,02/04/2023 20:12:14,rio grande do sul,9,condicionador de couro automotivo,49.9,449.1
+275ef21d-266f-4a18-a83a-3c0358c1796e,03/31/2023 19:44:15,santa catarina,1,limpa-tapetes automotivo,34.9,34.9
+de35b66a-5095-49ff-a887-dd909d9de95d,02/09/2023 23:13:46,santa catarina,25,limpa-estofados automotivo,49.9,1247.5
+a7610659-e685-4855-8909-56eeefd5aa2f,01/24/2023 09:26:39,paraná,12,limpa-rodas,24.9,298.8
+eb15c6e1-189f-4203-9b1b-9c8ad1f0b9eb,03/15/2023 16:40:41,santa catarina,99,limpa-vidros automotivo,19.9,1970.1
+cc2fbeb1-4380-4701-9747-33da80cab900,02/20/2023 05:38:29,rio grande do sul,81,desodorizador de ar automotivo,14.9,1206.9
+3d463405-d41a-4a9f-8313-a0e1f16486ee,02/18/2023 04:39:14,santa catarina,52,limpa-tapetes automotivo,34.9,1814.8
+25a20008-58df-45d4-9fd5-907d7495d5b9,03/23/2023 02:34:39,rio grande do sul,15,condicionador de couro automotivo,49.9,748.5
+e062b7a0-31e1-478e-a7d8-7f94d3e4d8f9,03/07/2023 13:46:38,santa catarina,18,limpa-tapetes automotivo,34.9,628.2
+df955b38-112b-45d9-8769-9ea63a7670df,03/15/2023 16:51:02,paraná,96,shampoo para carros,29.9,2870.4
+467e2809-54cb-4ef9-908f-8c1466b821b2,04/25/2023 07:53:39,paraná,77,polidor de metais automotivo,39.9,3072.3
+c9f55f92-cce6-4265-aed3-60fcdd717d57,01/03/2023 04:28:31,santa catarina,80,limpa-rodas,24.9,1992.0
+1c5a46aa-ede0-4b4f-825d-946b2ab362e2,04/11/2023 01:01:10,santa catarina,12,limpa-vidros automotivo,19.9,238.8
+144e586e-f5fa-4710-959e-31e9d97c1b44,01/16/2023 00:27:22,santa catarina,18,removedor de insetos,19.9,358.2
+33117dd4-0871-4996-9bb8-ea8efc6a1b3d,03/13/2023 17:27:56,santa catarina,97,removedor de insetos,19.9,1930.3
+db54f1b2-7994-42ac-80f6-9b46355328c5,04/13/2023 09:09:12,paraná,2,condicionador de couro automotivo,49.9,99.8
+65951a27-335a-4d9b-bb18-2179bb99e399,03/13/2023 00:37:00,santa catarina,30,polidor de metais automotivo,39.9,1197.0
+aec0390c-88c9-449a-b872-56aaa53cfb32,03/14/2023 16:57:42,paraná,21,limpa-vidros automotivo,19.9,417.9
+2350068d-6dc1-47fb-97ce-4a1e2207eec6,02/14/2023 09:51:26,santa catarina,82,limpa-tapetes automotivo,34.9,2861.8
+87c3e01b-70ac-4f77-9cc5-0c3af3ff7340,03/18/2023 06:34:37,santa catarina,32,limpa-tapetes automotivo,34.9,1116.8
+d09b553a-4b90-490f-b5c6-95b26a80b75c,03/13/2023 19:01:35,rio grande do sul,43,polidor de metais automotivo,39.9,1715.7
+d6cbe065-aee0-4baf-9177-b1a161daff9e,04/15/2023 17:29:05,paraná,86,limpa-tapetes automotivo,34.9,3001.4
+dcf2e9ee-597c-4626-8525-2c9fae564eca,03/12/2023 17:06:37,paraná,77,limpa-estofados automotivo,49.9,3842.3
+93943b47-ae25-4fc1-b3be-12a9d06fd73c,01/17/2023 10:11:09,rio grande do sul,88,cera automotiva,39.9,3511.2
+ae0bb6ba-b7ff-4f09-b876-c6198a52a11a,04/16/2023 06:10:30,rio grande do sul,94,condicionador de couro automotivo,49.9,4690.6
+d3954a35-56a4-4de9-9801-fd14a250de33,04/01/2023 00:14:08,santa catarina,99,cera automotiva,39.9,3950.1
+31db7601-c91c-465d-9b44-b8774a50aee3,02/24/2023 20:28:16,rio grande do sul,49,desodorizador de ar automotivo,14.9,730.1
+0f0754dc-2b7d-4ca8-8431-c486b3ba3cdb,02/03/2023 23:16:41,paraná,53,cera automotiva,39.9,2114.7
+356772c5-cfcc-4803-89b8-422ef2972811,03/23/2023 22:02:41,rio grande do sul,29,desodorizador de ar automotivo,14.9,432.1
+7b0a3adb-505a-42b5-8676-9df690f5e121,01/30/2023 00:38:17,santa catarina,79,limpa-tapetes automotivo,34.9,2757.1
+fd119218-0196-4543-aa20-e9fa54a97543,02/10/2023 08:54:20,rio grande do sul,42,removedor de insetos,19.9,835.8
+2a2b6dcf-fbac-478d-8889-ce17bf3e9d45,04/24/2023 02:35:31,santa catarina,52,shampoo para carros,29.9,1554.8
+b3e31bc4-7191-4ded-85eb-31a651f7aeba,01/11/2023 04:56:53,santa catarina,90,shampoo para carros,29.9,2691.0
+b05e8aaa-baca-4804-abca-5d894df3a6b7,01/16/2023 13:06:15,rio grande do sul,96,limpa-vidros automotivo,19.9,1910.4
+06f6b236-a0f0-4b71-aaac-69aac2aade66,04/10/2023 06:24:48,paraná,37,removedor de insetos,19.9,736.3
+281f8f2b-0963-4480-9db7-f81e34c33a82,04/03/2023 12:43:55,paraná,37,limpa-vidros automotivo,19.9,736.3
+bfaf57e5-f2c2-410a-be89-bf8ad9ca6f1a,04/01/2023 13:06:51,santa catarina,67,cera automotiva,39.9,2673.3
+1e8066f4-637a-4f59-b81c-ff66d9a0e3d1,02/01/2023 23:37:26,rio grande do sul,72,shampoo para carros,29.9,2152.8
+b228bbb4-133d-4113-8fc6-3b96d58f21d6,04/11/2023 10:42:22,paraná,64,cera automotiva,39.9,2553.6
+3ce79450-c5f9-414b-b415-22edf8dcde44,01/05/2023 18:56:27,paraná,23,removedor de insetos,19.9,457.7
+8c5bcd7d-19a2-4a6a-82d3-e510f2bbc9a1,04/08/2023 08:09:27,paraná,75,removedor de insetos,19.9,1492.5
+f3b3c9c7-edf2-4c54-8a1e-dcf7d5d4b354,02/01/2023 19:57:53,paraná,4,desodorizador de ar automotivo,14.9,59.6
+85cf5c0f-cf12-4059-8f21-1076bf8a2bdb,04/03/2023 17:01:27,rio grande do sul,88,shampoo para carros,29.9,2631.2
+0e597222-bace-4f67-94dd-ea11e203589c,01/21/2023 03:03:55,rio grande do sul,33,shampoo para carros,29.9,986.7
+da7979cd-9278-47bb-a93d-30c814a853b1,04/15/2023 04:32:16,paraná,90,limpa-vidros automotivo,19.9,1791.0
+953a4c3c-f586-49b2-bba1-9dadeddc6c8b,02/16/2023 18:28:37,paraná,57,polidor de metais automotivo,39.9,2274.3
+2ce1a8cc-559d-4973-ac6b-247bfa943367,02/05/2023 16:58:49,santa catarina,79,limpa-rodas,24.9,1967.1
+26d0c3bc-9b52-4d53-9a55-2a5b03c0abc1,04/10/2023 08:45:20,santa catarina,76,limpa-rodas,24.9,1892.4
+f189114c-423d-4828-8532-f3056ee36cdb,03/25/2023 05:07:25,rio grande do sul,12,desodorizador de ar automotivo,14.9,178.8
+ca86b824-68ee-44dc-997f-0e7873003c53,03/20/2023 01:34:07,paraná,74,removedor de insetos,19.9,1472.6
+2305c151-c182-45d3-983a-ff2bb27bc046,04/16/2023 20:42:29,rio grande do sul,36,limpa-tapetes automotivo,34.9,1256.4
+15e59dd8-534d-4283-ad1d-1912e312d2af,04/09/2023 01:50:52,rio grande do sul,23,shampoo para carros,29.9,687.7
+9fdc6090-b940-4184-aa59-99ed2d3012a5,04/29/2023 08:17:56,santa catarina,30,cera automotiva,39.9,1197.0
+7f020896-b09d-4a87-baf7-188519e75d77,03/05/2023 18:37:34,santa catarina,55,shampoo para carros,29.9,1644.5
+b642e0cc-75d8-4506-be16-0cf0edead6ee,01/27/2023 00:18:45,santa catarina,93,removedor de insetos,19.9,1850.7
+378c58a0-76af-47b8-b9e1-9fdf3812b58b,01/07/2023 03:59:34,rio grande do sul,21,limpa-vidros automotivo,19.9,417.9
+4cbec425-d300-49e1-8a64-c82e82866b7f,03/22/2023 02:27:47,rio grande do sul,93,shampoo para carros,29.9,2780.7
+4f2edcbb-1b2d-405e-b070-186e31a3b6f6,02/24/2023 06:31:19,paraná,65,removedor de insetos,19.9,1293.5
+b8f05580-5546-426a-85dc-00c8e7a82c6c,02/05/2023 09:43:33,rio grande do sul,70,polidor de metais automotivo,39.9,2793.0
+6c252c0a-948e-4849-a252-dcefc5a681b1,01/22/2023 14:01:19,santa catarina,1,polidor de metais automotivo,39.9,39.9
+450e8745-fb0f-44a3-b0cd-8cabc7115361,02/15/2023 15:45:53,rio grande do sul,67,cera automotiva,39.9,2673.3
+25a47bcd-d9a4-4d95-a861-dd1756fe865e,04/03/2023 15:10:03,santa catarina,99,limpa-tapetes automotivo,34.9,3455.1
+86d1cd9a-e511-4665-979a-8238b85242be,03/29/2023 19:38:40,paraná,26,polidor de metais automotivo,39.9,1037.4
+5369edf9-12fb-43b8-91e0-523a1e6c6817,01/17/2023 11:58:58,paraná,23,limpa-tapetes automotivo,34.9,802.7
+8360c847-7ed0-4bb0-8504-70b8ed5fef54,04/29/2023 14:13:47,santa catarina,98,limpa-vidros automotivo,19.9,1950.2
+8633cc77-21a2-40cd-a81d-78066e638c37,04/23/2023 15:42:02,rio grande do sul,43,limpa-vidros automotivo,19.9,855.7
+cb5c2d69-3b0d-485d-9818-d667cb76717c,03/29/2023 12:55:09,rio grande do sul,74,polidor de metais automotivo,39.9,2952.6
+988271aa-da87-44b1-ae17-1f4e668b8172,02/20/2023 12:40:51,santa catarina,12,limpa-rodas,24.9,298.8
+73f0da25-90d0-42a4-aa10-6a52d9a512f5,02/22/2023 16:45:47,santa catarina,84,limpa-tapetes automotivo,34.9,2931.6
+9c24660f-babb-434f-90be-dce7afb4b0d1,04/23/2023 01:51:33,paraná,7,limpa-estofados automotivo,49.9,349.3
+ef47d4b5-8292-46e3-9336-f89ba7d370cf,03/02/2023 11:31:22,paraná,28,limpa-estofados automotivo,49.9,1397.2
+f8d6d60e-bf4d-4f4a-9021-eded060d94e2,04/10/2023 01:14:21,rio grande do sul,72,limpa-tapetes automotivo,34.9,2512.8
+858c857f-1624-4899-9049-858f66c16c23,03/21/2023 22:51:58,rio grande do sul,60,polidor de metais automotivo,39.9,2394.0
+5e684c88-95aa-4526-9eb2-fecb638953b1,03/29/2023 00:17:52,rio grande do sul,71,condicionador de couro automotivo,49.9,3542.9
+f75abac6-f3be-4f17-a2f2-0b3739a8889b,04/12/2023 08:28:09,santa catarina,76,desodorizador de ar automotivo,14.9,1132.4
+410ed812-4b59-4526-9f72-3e12645a84db,03/28/2023 14:51:55,rio grande do sul,32,limpa-rodas,24.9,796.8
+071c74b8-1771-4d8e-a847-b4d56add9a9f,04/01/2023 12:11:54,paraná,42,limpa-tapetes automotivo,34.9,1465.8
+677c4f79-f2c9-45b3-b59f-d2af72f5f8a1,03/11/2023 02:45:11,santa catarina,80,limpa-tapetes automotivo,34.9,2792.0
+e1d81b5d-4182-43a2-b622-064849da3355,03/28/2023 11:56:42,rio grande do sul,47,limpa-tapetes automotivo,34.9,1640.3
+a802fbeb-b907-4751-9089-2835674273fb,01/21/2023 12:52:56,santa catarina,41,condicionador de couro automotivo,49.9,2045.9
+123937e8-eb1c-4684-9a45-3bbf6e1ecac6,03/18/2023 15:42:07,santa catarina,5,removedor de insetos,19.9,99.5
+cf0f4788-88cb-4608-9e05-67f9784b9a05,04/20/2023 23:11:06,paraná,41,cera automotiva,39.9,1635.9
+38189c62-1fd5-4ae7-8aac-86d8ce84d4eb,03/14/2023 15:15:44,rio grande do sul,60,limpa-vidros automotivo,19.9,1194.0
+813e64ae-08a2-4364-9b61-95264163eb75,02/13/2023 03:37:14,santa catarina,86,removedor de insetos,19.9,1711.4
+0c1d839c-0699-45a5-87f8-41ca14899d85,01/22/2023 19:46:03,santa catarina,2,polidor de metais automotivo,39.9,79.8
+b6ef238a-a2d9-4bb6-84ce-cdd4abbfae5b,01/09/2023 10:26:58,santa catarina,77,limpa-estofados automotivo,49.9,3842.3
+fb78a11f-3322-4680-982d-db3e8c11302f,01/14/2023 00:26:52,paraná,7,polidor de metais automotivo,39.9,279.3
+b9a686ad-9cb2-4f54-b29a-48f71c752cda,03/15/2023 11:36:34,santa catarina,97,condicionador de couro automotivo,49.9,4840.3
+05f21e7e-8c51-4aec-9c4d-21bb25ddafd7,03/11/2023 06:14:47,rio grande do sul,21,removedor de insetos,19.9,417.9
+81905050-8a4d-4c44-9964-69b090a63e01,03/31/2023 17:09:48,paraná,90,shampoo para carros,29.9,2691.0
+3b63250b-8c78-4f07-a77f-2b0e4bc8efc8,02/03/2023 11:51:05,paraná,58,polidor de metais automotivo,39.9,2314.2
+d0715372-014d-4356-930e-bb6753cae565,04/28/2023 14:38:06,paraná,77,limpa-tapetes automotivo,34.9,2687.3
+2c8543db-1afd-4a52-bc27-96c0f218a62b,01/10/2023 20:41:57,rio grande do sul,72,removedor de insetos,19.9,1432.8
+caba6343-62ef-4c63-a4d5-7e309199c50f,02/09/2023 13:06:08,santa catarina,19,shampoo para carros,29.9,568.1
+069c5506-b48c-4bdd-a620-f83eb8e9b6b5,04/14/2023 04:01:01,paraná,73,condicionador de couro automotivo,49.9,3642.7
+fd101f9a-3913-4702-b000-e397c09e5316,04/13/2023 14:23:06,paraná,78,limpa-rodas,24.9,1942.2
+189d31e1-19a1-44e7-9c23-73909c97d43a,02/25/2023 20:38:19,santa catarina,2,desodorizador de ar automotivo,14.9,29.8
+e2a43072-b75a-4fe1-b6f7-3e904a4cd208,03/01/2023 12:05:08,rio grande do sul,84,desodorizador de ar automotivo,14.9,1251.6
+7ea8d12c-dc2b-4fa7-8273-99b5d36327ec,04/22/2023 07:36:22,rio grande do sul,92,cera automotiva,39.9,3670.8
+10aa7f3d-2383-4d32-a7c6-a713a1168339,02/09/2023 08:02:53,paraná,29,polidor de metais automotivo,39.9,1157.1
+dd4af25a-79cf-4d32-b47c-03254c1b5083,03/08/2023 16:04:31,santa catarina,90,cera automotiva,39.9,3591.0
+99cbc872-9946-4d5a-ab3d-5decc41d02b2,04/06/2023 09:57:26,rio grande do sul,61,desodorizador de ar automotivo,14.9,908.9
+6285bf10-da8f-4e01-b39d-f066aa525c69,04/29/2023 17:00:48,paraná,31,polidor de metais automotivo,39.9,1236.9
+1f6ac7f4-bd6d-48bf-8328-93c1330a5e00,02/19/2023 13:26:52,santa catarina,94,shampoo para carros,29.9,2810.6
+2c3c86e2-0e65-4297-bfc1-e01eceefaf2f,02/28/2023 23:55:51,paraná,7,shampoo para carros,29.9,209.3
+aa101d7b-25c2-4fdb-814a-914fb571eed4,01/06/2023 20:12:14,rio grande do sul,78,condicionador de couro automotivo,49.9,3892.2
+73715feb-9326-4c6a-95d2-603ab1e5d19b,04/07/2023 08:23:32,santa catarina,13,removedor de insetos,19.9,258.7
+91354ba1-680a-4ecd-92da-3742ed7ff79a,04/18/2023 11:31:03,rio grande do sul,69,limpa-estofados automotivo,49.9,3443.1
+708cfb0b-c5c8-4956-b2ad-e265c75a0bbe,01/05/2023 10:35:45,paraná,88,limpa-estofados automotivo,49.9,4391.2
+0a933ee5-2495-4e3e-83a0-d8f4f1c9b760,02/15/2023 19:56:42,rio grande do sul,9,condicionador de couro automotivo,49.9,449.1
+83004f6a-8648-4d12-9e02-b246ec5b4753,04/01/2023 14:06:46,santa catarina,93,limpa-rodas,24.9,2315.7
+d24bbc07-8d87-45c1-b52a-6cd6146e162d,03/11/2023 09:16:37,santa catarina,18,condicionador de couro automotivo,49.9,898.2
+44cbbbd8-5f3e-49e1-97d2-9ffe7fbcb563,04/24/2023 08:21:31,rio grande do sul,11,shampoo para carros,29.9,328.9
+604c970e-bdb0-479c-923f-f1c408897077,03/18/2023 02:53:15,rio grande do sul,89,desodorizador de ar automotivo,14.9,1326.1
+7878b9f2-52fd-4e14-94fb-c8ec1b487a51,03/10/2023 10:51:04,santa catarina,78,limpa-vidros automotivo,19.9,1552.2
+251eb509-7e10-4d79-bc84-f99a829d7205,04/20/2023 02:33:26,rio grande do sul,82,limpa-vidros automotivo,19.9,1631.8
+7e432d52-88a3-4644-9be9-a3b7dc84e841,03/12/2023 12:50:02,rio grande do sul,9,cera automotiva,39.9,359.1
+21bc7c09-ad2d-4cb7-b064-9a5eb875ae53,01/28/2023 12:27:44,paraná,11,polidor de metais automotivo,39.9,438.9
+4779ac34-d3c0-4791-9793-fb4f31253f98,03/12/2023 14:16:16,santa catarina,100,limpa-estofados automotivo,49.9,4990.0
+48e724c7-3471-4801-aefd-4136db42b583,01/31/2023 16:57:57,paraná,84,limpa-vidros automotivo,19.9,1671.6
+7ea39842-602d-4076-b48f-453cb67c978b,02/02/2023 04:07:42,rio grande do sul,42,limpa-estofados automotivo,49.9,2095.8
+601ea3a9-c385-406e-a5ef-ec4e01d03a96,02/04/2023 09:47:31,santa catarina,95,removedor de insetos,19.9,1890.5
+01dcfc19-5763-4b59-9b38-5f1ee7a4e81c,03/01/2023 20:10:41,santa catarina,88,condicionador de couro automotivo,49.9,4391.2
+8397157a-ff61-4633-bad6-e82c22f74f23,02/24/2023 06:49:09,paraná,93,limpa-rodas,24.9,2315.7
+ce38163b-06c0-40dd-8080-e215baf491bc,04/15/2023 12:10:23,rio grande do sul,66,limpa-rodas,24.9,1643.4
+77f11f1e-ceb1-4400-b5b7-18b0fc6bfa62,01/08/2023 05:38:32,santa catarina,81,desodorizador de ar automotivo,14.9,1206.9
+6ece88a8-e94e-42d6-9a8e-e9b9d00d6c8c,03/30/2023 02:09:17,paraná,76,desodorizador de ar automotivo,14.9,1132.4
+449ef9fd-bd61-447d-81d0-6d82e4a828bb,04/03/2023 05:09:49,rio grande do sul,89,limpa-estofados automotivo,49.9,4441.1
+6b71321b-8bcf-4bd1-9123-8ad9fc1db447,04/01/2023 07:01:55,santa catarina,29,shampoo para carros,29.9,867.1
+decb31a4-e2f3-449f-b37a-fc2102556dfe,03/12/2023 08:54:09,paraná,78,desodorizador de ar automotivo,14.9,1162.2
+fa027a9e-b20e-4466-8ff9-a8f74ce369cd,02/02/2023 10:04:24,paraná,31,polidor de metais automotivo,39.9,1236.9
+1e7d1fc7-cee4-4759-bc2b-5cc1a7619c50,02/10/2023 07:50:04,rio grande do sul,91,removedor de insetos,19.9,1810.9
+402f1e6f-de82-4e30-9c09-d455680e41a5,03/12/2023 10:06:40,paraná,74,cera automotiva,39.9,2952.6
+ccf1b0cc-11ab-46ee-b68a-fec11cd06325,01/03/2023 01:46:58,paraná,86,limpa-tapetes automotivo,34.9,3001.4
+96672b82-cd82-4a8b-ab18-2248a4f44b44,02/23/2023 09:48:16,rio grande do sul,58,removedor de insetos,19.9,1154.2
+fb524216-4f73-4249-9ccc-3255150456f7,02/02/2023 12:27:13,santa catarina,76,limpa-vidros automotivo,19.9,1512.4
+09c21807-787f-4c94-b9c7-d2fbfedb0bdb,01/10/2023 07:32:57,rio grande do sul,77,cera automotiva,39.9,3072.3
+3e3828c6-bf8b-4cbd-a742-fb19c5072c05,03/29/2023 05:21:45,santa catarina,46,shampoo para carros,29.9,1375.4
+e95fa8c4-af3d-4752-b7dd-2656517b019b,03/08/2023 12:28:28,santa catarina,64,removedor de insetos,19.9,1273.6
+8f9745fe-9992-4f8f-9557-7b12d1d1e435,01/18/2023 10:55:15,rio grande do sul,97,limpa-tapetes automotivo,34.9,3385.3
+2d750d13-1f88-476e-a335-f911b9c2498d,03/02/2023 13:47:00,rio grande do sul,31,limpa-tapetes automotivo,34.9,1081.9
+c8051768-372e-4a5e-b0c9-8f357f4bb0a8,02/21/2023 12:47:02,santa catarina,92,condicionador de couro automotivo,49.9,4590.8
+52a0476b-fa75-4940-a504-8f0f54422bca,03/04/2023 19:09:59,santa catarina,19,limpa-tapetes automotivo,34.9,663.1
+5d5c6af4-e275-4418-ada2-46fe0d57a309,01/14/2023 11:07:17,rio grande do sul,9,limpa-estofados automotivo,49.9,449.1
+db7d79c0-bdf1-4dbb-b59b-9bfea77b8977,01/25/2023 13:14:30,rio grande do sul,2,condicionador de couro automotivo,49.9,99.8
+83d0b7ba-9d47-42f1-800f-1a9282c9e362,04/24/2023 11:03:37,santa catarina,27,limpa-estofados automotivo,49.9,1347.3
+18cd3d69-2ec7-495c-8ed9-53cf9d609a6a,04/09/2023 19:20:07,santa catarina,93,condicionador de couro automotivo,49.9,4640.7
+a76a7a7c-6dba-4dc2-95ea-4ea91edaff46,03/17/2023 03:20:30,rio grande do sul,90,limpa-vidros automotivo,19.9,1791.0
+d64ce3ce-e148-4f01-b6d8-ed0e6d88318d,02/04/2023 07:32:26,santa catarina,31,desodorizador de ar automotivo,14.9,461.9
+0ae73895-40c2-4040-ba00-719ee1698706,02/05/2023 05:18:05,rio grande do sul,53,cera automotiva,39.9,2114.7
+5d2f317a-2303-4e4f-bb1d-7a70e9e69b5c,03/27/2023 21:36:03,rio grande do sul,7,limpa-vidros automotivo,19.9,139.3
+92f214df-14b2-48c8-a668-9f9c6ba26fcf,02/20/2023 23:54:53,santa catarina,31,desodorizador de ar automotivo,14.9,461.9
+51233072-52ad-47be-aa60-d0a97241059b,04/07/2023 11:47:52,paraná,12,limpa-tapetes automotivo,34.9,418.8
+8f80cb98-6381-4b66-95c6-f5e4922aab3d,04/19/2023 23:31:10,paraná,43,polidor de metais automotivo,39.9,1715.7
+1b3fed5a-b8ba-4866-9394-698951c6c820,02/17/2023 00:52:20,rio grande do sul,68,limpa-tapetes automotivo,34.9,2373.2
+2bda13a6-8158-487a-864f-bcbddf3fb329,01/25/2023 14:07:53,rio grande do sul,28,limpa-tapetes automotivo,34.9,977.2
+dc2b6eee-70c7-49ab-b37c-39e7523172da,02/05/2023 21:38:59,rio grande do sul,32,desodorizador de ar automotivo,14.9,476.8
+6788d8fa-b6bd-4d49-9ccd-ed1d2891bcaa,01/31/2023 09:42:37,santa catarina,27,limpa-tapetes automotivo,34.9,942.3
+71e3847d-1df8-44a2-aa6e-c03f1073116e,01/19/2023 12:56:45,paraná,28,removedor de insetos,19.9,557.2
+db2cbca2-a215-4ce7-8bd4-a8e5c0c9bb98,02/23/2023 14:04:54,rio grande do sul,98,limpa-tapetes automotivo,34.9,3420.2
+38026cdd-0ea0-4434-85c7-ffafc63241b7,02/21/2023 00:03:28,rio grande do sul,92,removedor de insetos,19.9,1830.8
+1a74d7ad-5bbb-43f1-a467-cf68f80a7897,02/12/2023 14:43:51,santa catarina,30,polidor de metais automotivo,39.9,1197.0
+3faa173e-2687-4f0d-a810-075499357be4,01/13/2023 00:16:11,santa catarina,100,polidor de metais automotivo,39.9,3990.0
+f7c87929-7dca-4049-a06e-7fa83da98132,04/29/2023 01:23:11,santa catarina,54,limpa-rodas,24.9,1344.6
+c09d2045-f6b0-4b39-847c-95cf8aec3fd8,03/26/2023 10:35:42,rio grande do sul,85,limpa-rodas,24.9,2116.5
+34746f95-9880-4657-97b3-7719bbd4febc,01/31/2023 14:43:18,paraná,79,limpa-estofados automotivo,49.9,3942.1
+4bab8ff0-0a35-4f93-ace0-12dd8000acc1,03/19/2023 05:19:37,paraná,68,cera automotiva,39.9,2713.2
+8ffea7ee-c7ff-4224-a956-8e9a397144c0,03/19/2023 13:51:55,paraná,61,limpa-estofados automotivo,49.9,3043.9
+210ad48c-898e-4398-aced-0554ad1f90ac,02/08/2023 00:42:30,santa catarina,55,limpa-vidros automotivo,19.9,1094.5
+c25bdbcf-2315-4b88-a95c-2b1a43b3777c,03/22/2023 10:08:39,paraná,70,limpa-estofados automotivo,49.9,3493.0
+ecb8762f-a264-477b-b21c-d0aa62a77c08,03/16/2023 14:10:56,paraná,67,limpa-vidros automotivo,19.9,1333.3
+b2dc0557-b7c6-49c4-8391-4a75c22eae99,03/17/2023 02:19:13,santa catarina,34,removedor de insetos,19.9,676.6
+232dced7-b45a-43f0-aba5-97c90bb9549a,02/17/2023 03:12:01,santa catarina,69,shampoo para carros,29.9,2063.1
+5178a908-aa51-47d2-a80c-f410b0153393,02/03/2023 16:04:39,rio grande do sul,30,limpa-rodas,24.9,747.0
+fcdbd264-232f-4221-884b-52c11039b471,01/17/2023 12:16:14,paraná,67,limpa-tapetes automotivo,34.9,2338.3
+646948b7-9608-46f4-8336-e878bedbb98f,01/15/2023 12:42:27,santa catarina,31,limpa-estofados automotivo,49.9,1546.9
+2e042d1f-12b0-4967-a258-5b2b19614c59,04/09/2023 00:51:15,paraná,3,desodorizador de ar automotivo,14.9,44.7
+97e7c14a-9179-48c8-bcd2-e9bc2ef84347,02/05/2023 05:01:54,paraná,96,limpa-rodas,24.9,2390.4
+65427ae4-01ae-4396-bcdb-802f9cfc14de,01/03/2023 22:00:10,paraná,71,removedor de insetos,19.9,1412.9
+b8d2ac33-7658-4e92-8c37-a3381865459c,01/31/2023 14:31:39,rio grande do sul,41,limpa-rodas,24.9,1020.9
+d8652f2b-f211-4781-bd18-44a4a4787146,02/11/2023 22:52:07,rio grande do sul,53,polidor de metais automotivo,39.9,2114.7
+3df2c484-e87b-4daf-bb33-c3add1226d77,01/01/2023 09:39:46,santa catarina,24,desodorizador de ar automotivo,14.9,357.6
+686d1b82-a1c2-46ee-8d67-368d5dca71a4,02/24/2023 15:27:23,santa catarina,21,desodorizador de ar automotivo,14.9,312.9
+1761e5a6-a0f2-412b-a6d9-8e7de677e1b0,04/17/2023 13:18:55,paraná,29,limpa-estofados automotivo,49.9,1447.1
+4eeaa404-2aff-420d-b777-b9129e499985,01/05/2023 11:14:04,santa catarina,92,limpa-rodas,24.9,2290.8
+6c0f774c-d356-44ef-a479-b4daf041ea5e,04/21/2023 22:19:22,santa catarina,77,condicionador de couro automotivo,49.9,3842.3
+b6ff9a00-6cac-4e31-9c13-d62a5d5c25bc,02/21/2023 15:59:25,paraná,59,limpa-estofados automotivo,49.9,2944.1
+bff9e061-c89f-4b5e-a4dd-d4af95b28bb7,02/14/2023 17:04:01,paraná,78,removedor de insetos,19.9,1552.2
+7046b496-8233-41b3-9319-17d89ce1023c,01/30/2023 02:25:49,santa catarina,55,limpa-vidros automotivo,19.9,1094.5
+7a02154c-0395-4f17-89c2-a08f0e2009f4,01/30/2023 13:39:53,rio grande do sul,97,cera automotiva,39.9,3870.3
+54a4a6c4-fead-4a2f-b116-b595523587ad,02/26/2023 03:40:55,paraná,6,desodorizador de ar automotivo,14.9,89.4
+0deba77a-e293-4241-a702-d1650d6954ef,03/28/2023 22:30:52,santa catarina,69,limpa-estofados automotivo,49.9,3443.1
+1fa7119c-ff2b-4177-a7ed-e6d62bdff0eb,02/24/2023 07:50:53,santa catarina,31,condicionador de couro automotivo,49.9,1546.9
+471a2dd4-a65d-4652-9acb-dc550b348fae,04/23/2023 18:49:21,rio grande do sul,26,condicionador de couro automotivo,49.9,1297.4
+cd22ab1e-201d-4740-8d97-ae711a495b34,03/25/2023 13:04:25,rio grande do sul,37,limpa-tapetes automotivo,34.9,1291.3
+7b56d5e4-fdec-4641-a157-38a0e0971388,02/05/2023 21:20:01,paraná,13,desodorizador de ar automotivo,14.9,193.7
+405ef6ad-1935-493a-81b5-7d41430fd413,03/14/2023 07:13:51,rio grande do sul,10,limpa-vidros automotivo,19.9,199.0
+2222d0aa-2a97-44df-bde3-b2e255168716,04/04/2023 04:20:05,rio grande do sul,57,limpa-vidros automotivo,19.9,1134.3
+d16aa287-95e1-4a4d-98ef-5be4793026e5,01/03/2023 13:01:28,paraná,30,limpa-estofados automotivo,49.9,1497.0
+369b647e-7b98-4075-afa4-843bebd4771d,02/10/2023 12:08:42,paraná,92,shampoo para carros,29.9,2750.8
+a6376d94-5780-4ec8-965c-1b40d97ed2a4,04/07/2023 03:57:22,santa catarina,15,condicionador de couro automotivo,49.9,748.5
+44836f8e-039f-441d-b86c-e35d9c74629e,01/25/2023 06:09:55,paraná,60,removedor de insetos,19.9,1194.0
+58c765f3-7473-4ea6-9869-0ab91957553f,01/20/2023 18:21:58,santa catarina,47,limpa-vidros automotivo,19.9,935.3
+4a0d3f0d-6a51-4730-a6d6-a774935fd144,04/06/2023 11:28:35,santa catarina,12,removedor de insetos,19.9,238.8
+a3e74401-6e40-4650-ae3a-c92868ca07e1,03/06/2023 01:23:53,santa catarina,4,desodorizador de ar automotivo,14.9,59.6
+14de878c-f152-4d6d-8899-b5d3cf87bcc8,03/16/2023 06:07:29,paraná,29,limpa-tapetes automotivo,34.9,1012.1
+427039de-b939-4872-a58f-b8efa89ba6c1,03/18/2023 16:14:34,paraná,93,limpa-estofados automotivo,49.9,4640.7
+77bc9bfb-f5dc-4e8e-8cb0-eec1c7b41a10,02/22/2023 10:47:32,rio grande do sul,69,removedor de insetos,19.9,1373.1
+2333cdf7-d2af-4e54-a5f0-dd6a9a5f5be0,04/22/2023 01:09:11,paraná,13,limpa-vidros automotivo,19.9,258.7
+d0cf4006-60a0-4123-be7c-d4af8704aca0,01/27/2023 10:17:02,rio grande do sul,11,limpa-tapetes automotivo,34.9,383.9
+c7c444e1-f158-4e01-b6a3-fdcce78aa910,02/07/2023 08:14:15,rio grande do sul,51,cera automotiva,39.9,2034.9
+18eb12f7-5680-4229-b729-271618cbd0a7,03/27/2023 16:00:49,santa catarina,62,removedor de insetos,19.9,1233.8
+3ee409b5-b4e6-4b59-a809-cae314c286c2,01/21/2023 21:18:19,rio grande do sul,9,cera automotiva,39.9,359.1
+c560a13e-2f47-4455-91b2-dea6b8eeca96,03/07/2023 12:35:54,paraná,34,limpa-rodas,24.9,846.6
+9ff915b6-22d4-48c2-887a-2a7254d11a69,04/01/2023 07:52:49,rio grande do sul,60,removedor de insetos,19.9,1194.0
+ebbb28cc-8832-460a-ac76-de04653020a0,04/24/2023 23:27:08,rio grande do sul,13,shampoo para carros,29.9,388.7
+d34bf450-30a6-4c16-8edb-6558b31b73c1,04/23/2023 05:34:35,santa catarina,73,desodorizador de ar automotivo,14.9,1087.7
+e3cd2e9f-9b83-480b-9844-e78b486b2808,01/24/2023 14:08:01,santa catarina,65,limpa-tapetes automotivo,34.9,2268.5
+7207175a-a818-4885-93d8-52e74a32e421,03/07/2023 08:16:06,paraná,33,removedor de insetos,19.9,656.7
+e74e89a5-4774-4930-b4ac-2b4fcf9247f9,04/04/2023 08:13:32,rio grande do sul,3,limpa-tapetes automotivo,34.9,104.7
+64cef15d-822c-4226-a069-a7065bf04362,04/14/2023 12:16:43,paraná,32,shampoo para carros,29.9,956.8
+b2583f43-c3fe-42cb-bc73-2b3a4c67bbc1,01/13/2023 20:30:47,rio grande do sul,53,cera automotiva,39.9,2114.7
+bc829c32-868d-4afd-aea5-6b5bc12aad63,01/25/2023 23:49:54,santa catarina,12,desodorizador de ar automotivo,14.9,178.8
+aa92bb1a-3c19-4fea-a836-a776a2b0fd49,03/22/2023 22:25:09,santa catarina,22,cera automotiva,39.9,877.8
+80f3ecca-b2d0-464b-90e4-81c100fc82fa,01/06/2023 15:35:49,santa catarina,11,limpa-tapetes automotivo,34.9,383.9
+a2cc543f-e7e9-4682-9933-3bae4e6afecc,03/30/2023 03:17:37,santa catarina,82,limpa-rodas,24.9,2041.8
+27d51733-07c2-430f-ae64-7895bc583470,02/19/2023 18:13:32,rio grande do sul,11,cera automotiva,39.9,438.9
+93ecfa4a-2133-4566-87ba-63ad940c4a7a,02/03/2023 14:42:24,rio grande do sul,16,desodorizador de ar automotivo,14.9,238.4
+f9854253-8702-450b-847c-9c2d72918056,03/16/2023 19:59:27,rio grande do sul,26,limpa-tapetes automotivo,34.9,907.4
+95eefed6-588e-45ba-8ccd-65d3eaa3b952,04/28/2023 01:26:57,rio grande do sul,30,limpa-rodas,24.9,747.0
+e3e9c733-e5ac-4250-8d46-2df4b76c9ab5,03/16/2023 18:42:52,santa catarina,21,cera automotiva,39.9,837.9
+d0c5edd9-694b-4061-856a-61f0580de625,04/14/2023 13:48:16,rio grande do sul,94,desodorizador de ar automotivo,14.9,1400.6
+d6c5d7cb-e3f2-4f74-ba24-52c076c6636c,03/07/2023 13:01:40,santa catarina,36,limpa-rodas,24.9,896.4
+04530d2b-020e-4a2d-b2a3-b059994bdfbf,02/23/2023 17:52:59,rio grande do sul,69,shampoo para carros,29.9,2063.1
+86b6542c-0b3b-423d-876a-685f388f3aab,03/25/2023 16:43:41,rio grande do sul,84,limpa-tapetes automotivo,34.9,2931.6
+cca7bfbf-1d13-4d21-aa39-752a38db1b7d,01/10/2023 17:02:31,santa catarina,8,cera automotiva,39.9,319.2
+f7a24412-e63d-41f8-bf2d-952b4d037c89,01/07/2023 15:58:47,rio grande do sul,29,shampoo para carros,29.9,867.1
+adbcdf7a-a3c8-48e5-b476-4e5fa0666638,03/20/2023 21:08:18,paraná,82,limpa-vidros automotivo,19.9,1631.8
+a6b0fdaf-3408-4792-893e-e3ef2703351d,04/18/2023 18:59:09,paraná,27,polidor de metais automotivo,39.9,1077.3
+b254e867-c28c-4783-8281-5a7d84730919,03/25/2023 00:57:39,santa catarina,91,condicionador de couro automotivo,49.9,4540.9
+f4d3ae32-72d3-439d-b91a-7c6b950e406e,04/22/2023 02:24:04,paraná,10,limpa-rodas,24.9,249.0
+d918a8d9-3f0f-442d-8774-7698799828c8,03/08/2023 20:58:01,paraná,80,condicionador de couro automotivo,49.9,3992.0
+fe52f77e-9ae4-4ed9-bf69-b713457fa4b6,03/17/2023 14:13:57,rio grande do sul,25,cera automotiva,39.9,997.5
+fcc261da-5a46-4f58-88db-23c9c14bc9e3,03/12/2023 00:16:10,rio grande do sul,68,limpa-tapetes automotivo,34.9,2373.2
+58436b3b-5756-42f9-aea4-1f7bff03fb20,03/05/2023 08:46:57,santa catarina,86,limpa-estofados automotivo,49.9,4291.4
+dc0c3a4f-c40e-4259-8340-d54425b2a710,02/15/2023 19:05:29,paraná,37,shampoo para carros,29.9,1106.3
+58cfbe09-5e36-46ec-9806-7225058be8be,02/24/2023 23:41:23,paraná,19,shampoo para carros,29.9,568.1
+1dc34850-cca3-4ea2-98de-81406f1ef862,02/09/2023 23:11:37,santa catarina,21,condicionador de couro automotivo,49.9,1047.9
+1359dd26-c7a2-4531-ba1b-5adba48ec6ba,01/30/2023 09:06:10,santa catarina,68,cera automotiva,39.9,2713.2
+812ceda8-2024-4e1a-b9f5-399d9dcc00c3,04/20/2023 12:53:14,santa catarina,5,polidor de metais automotivo,39.9,199.5
+fb4ab13c-0049-4fa5-a5a9-f96a95e36993,03/17/2023 23:36:16,rio grande do sul,89,desodorizador de ar automotivo,14.9,1326.1
+02b01912-685d-4df6-84d1-f5be977baeb0,02/06/2023 09:21:10,paraná,28,limpa-rodas,24.9,697.2
+dca31f4b-922f-4995-8d48-7eb69f09d6aa,01/16/2023 21:08:45,paraná,38,limpa-estofados automotivo,49.9,1896.2
+cc5b80b4-4056-40e7-b425-372cb40fed88,03/15/2023 13:36:41,santa catarina,67,limpa-rodas,24.9,1668.3
+cc3e5e39-f5aa-4c77-b92e-bcf84183fbe9,01/14/2023 16:49:22,paraná,82,removedor de insetos,19.9,1631.8
+4a50dd9f-d698-45c2-b64b-32807b5620f7,03/29/2023 19:28:59,santa catarina,80,condicionador de couro automotivo,49.9,3992.0
+11c1a4d3-ff08-4af6-8c9b-e3d1a2544964,04/25/2023 05:12:48,rio grande do sul,41,cera automotiva,39.9,1635.9
+5e72660a-065a-479b-915e-e40f7272bf7e,04/09/2023 19:43:41,paraná,45,limpa-rodas,24.9,1120.5
+43dfda09-5750-494d-94f8-3db23a626192,03/18/2023 04:32:34,rio grande do sul,78,limpa-estofados automotivo,49.9,3892.2
+f767a7f5-4da3-4957-abf8-a828f60c45bb,04/09/2023 15:10:26,santa catarina,36,polidor de metais automotivo,39.9,1436.4
+4660ad05-1934-47c3-aef4-4d0862bed8d8,03/04/2023 11:34:01,paraná,34,desodorizador de ar automotivo,14.9,506.6
+72b4dcdf-67b1-4b53-ab60-ee355a408b28,01/24/2023 13:01:28,santa catarina,11,desodorizador de ar automotivo,14.9,163.9
+6e44bd4b-be27-42b7-8f7f-70c5a8b1e8db,04/03/2023 16:27:27,paraná,97,limpa-vidros automotivo,19.9,1930.3
+53f05094-fad1-46e6-ab9c-528aaba87220,01/03/2023 08:46:52,paraná,12,condicionador de couro automotivo,49.9,598.8
+b7d2c040-1699-4d3e-9106-51034386abf9,02/18/2023 14:53:56,rio grande do sul,59,polidor de metais automotivo,39.9,2354.1
+c772aea8-d226-42f3-be33-9d5631e515ca,03/02/2023 11:16:36,santa catarina,79,shampoo para carros,29.9,2362.1
+671cb157-3b2b-4ba8-98f9-96247639e078,03/29/2023 22:25:05,paraná,38,limpa-tapetes automotivo,34.9,1326.2
+8a3590f9-cb36-47b6-8631-5eebd8beb7cd,04/16/2023 22:44:44,santa catarina,40,limpa-rodas,24.9,996.0
+750f1ad6-e3f2-47da-8db1-c8bec5517267,03/16/2023 20:43:09,rio grande do sul,17,condicionador de couro automotivo,49.9,848.3
+e354251f-4c4a-4287-aa7a-6966da520bb4,02/06/2023 15:29:22,santa catarina,69,condicionador de couro automotivo,49.9,3443.1
+96904651-e146-4e9b-9862-ad7020b152e4,04/09/2023 12:37:07,rio grande do sul,20,limpa-estofados automotivo,49.9,998.0
+c8c785e3-0f3f-46d2-bf78-a32894477c29,04/28/2023 03:40:44,paraná,97,limpa-estofados automotivo,49.9,4840.3
+97aeb9ee-32f9-4c12-8398-d6bab356c751,04/27/2023 07:26:01,paraná,71,limpa-vidros automotivo,19.9,1412.9
+0dec5b08-6076-4afa-a036-126f6b8892f7,03/12/2023 12:10:17,paraná,38,shampoo para carros,29.9,1136.2
+2aa3b5a8-3c0c-4b7d-887b-f4018bd3cb1e,02/16/2023 00:05:13,rio grande do sul,16,desodorizador de ar automotivo,14.9,238.4
+c7fd677d-9af9-4fd5-9af2-a29cb19ad8f4,03/17/2023 01:28:37,santa catarina,65,desodorizador de ar automotivo,14.9,968.5
+c37d23b4-bea8-48be-8891-477f81f9a7db,03/03/2023 11:42:40,rio grande do sul,31,condicionador de couro automotivo,49.9,1546.9
+f8d933b6-9a08-4b86-8910-bc29ce8bb6bb,04/07/2023 06:07:07,rio grande do sul,52,polidor de metais automotivo,39.9,2074.8
+4dcc49e8-a623-48c4-a3dd-d16357e39d8c,03/23/2023 23:21:55,paraná,84,limpa-vidros automotivo,19.9,1671.6
+9e278b1c-b9e7-4f9f-aaab-3eed907bdfc4,01/07/2023 15:05:16,rio grande do sul,53,cera automotiva,39.9,2114.7
+add62802-4000-4815-8f23-f08e49857a3b,04/13/2023 16:58:02,rio grande do sul,91,limpa-tapetes automotivo,34.9,3175.9
+8ac51c30-4e3f-41c6-b2c7-4c14ca967a8d,04/14/2023 07:11:50,rio grande do sul,17,desodorizador de ar automotivo,14.9,253.3
+d7bd9fa3-ccf1-4fed-9d4d-ea44cdf8249b,04/05/2023 19:19:58,rio grande do sul,77,cera automotiva,39.9,3072.3
+ef64e002-4d04-4f2c-a2e3-6f8d647bd50c,02/04/2023 22:03:11,paraná,22,desodorizador de ar automotivo,14.9,327.8
+fa24cdfe-16db-42b3-b890-f261788a8ef4,03/04/2023 05:11:49,santa catarina,93,polidor de metais automotivo,39.9,3710.7
+f2a0427b-5f2c-484f-9867-b4c9e584ff28,01/09/2023 21:07:08,paraná,52,removedor de insetos,19.9,1034.8
+174f5f83-624d-4c27-823c-a11c9d79329d,04/07/2023 05:47:41,santa catarina,89,limpa-estofados automotivo,49.9,4441.1
+7125db7c-c2d5-4129-bf7c-ba1665d34085,04/25/2023 01:57:23,paraná,88,condicionador de couro automotivo,49.9,4391.2
+a9a1a961-ff5a-4153-8a25-5d061727f7da,01/23/2023 08:20:52,rio grande do sul,10,removedor de insetos,19.9,199.0
+efb982cb-b20f-41d3-87eb-8fb87c7da0ca,04/08/2023 01:28:03,rio grande do sul,98,removedor de insetos,19.9,1950.2
+53b94737-4cf1-4714-b362-eeb23081d467,04/29/2023 21:23:20,rio grande do sul,39,limpa-tapetes automotivo,34.9,1361.1
+93c4e077-2dca-4218-a8f6-df234d56079e,02/09/2023 16:36:04,rio grande do sul,13,limpa-vidros automotivo,19.9,258.7
+0238b8bb-dd91-4e5c-906e-ae3a5e84ccd4,01/23/2023 19:02:21,paraná,77,limpa-rodas,24.9,1917.3
+84106562-0fdf-4693-80b0-d666742f4f94,03/16/2023 13:29:40,rio grande do sul,43,limpa-vidros automotivo,19.9,855.7
+3b876d28-ec28-49ef-9671-18f78ebff0ac,04/28/2023 21:20:41,paraná,57,limpa-estofados automotivo,49.9,2844.3
+8dfdd58c-ccd0-44d1-abd8-b424deaee249,01/08/2023 07:35:52,rio grande do sul,79,polidor de metais automotivo,39.9,3152.1
+3433fef6-06ba-4289-81e6-166b791e0bca,01/10/2023 10:40:47,paraná,78,limpa-vidros automotivo,19.9,1552.2
+2e9b570b-b2dc-42f0-8b75-dd73745bb780,04/15/2023 03:13:56,paraná,72,removedor de insetos,19.9,1432.8
+ae882198-9377-4602-83c9-602efb43779b,04/04/2023 04:24:11,paraná,83,condicionador de couro automotivo,49.9,4141.7
+d23cbacb-b9e2-4998-a939-db623de1e42f,03/14/2023 18:23:08,paraná,7,polidor de metais automotivo,39.9,279.3
+84ca2b3a-45ce-4b4b-8797-2bb8755ead1f,01/19/2023 22:23:29,rio grande do sul,9,shampoo para carros,29.9,269.1
+d17800eb-a99c-4eb1-894e-6535262f38e0,01/06/2023 16:49:23,santa catarina,30,limpa-tapetes automotivo,34.9,1047.0
+0f37345e-8ec2-44b9-ac4c-a8457626581d,03/07/2023 01:02:21,paraná,89,condicionador de couro automotivo,49.9,4441.1
+a22f978f-c768-47c5-a843-0b05f288513d,04/01/2023 05:55:24,paraná,70,shampoo para carros,29.9,2093.0
+caf018e4-0015-4dc6-91e4-62b08ff0c71c,03/14/2023 05:12:15,paraná,72,shampoo para carros,29.9,2152.8
+3045565c-57cf-4dfa-9589-955693bd7dbe,03/09/2023 14:43:43,santa catarina,3,shampoo para carros,29.9,89.7
+465d7262-7e38-4b68-a9eb-a459a59b7102,03/01/2023 16:15:43,paraná,36,limpa-rodas,24.9,896.4
+dc925dc3-b796-4ec3-b26e-c81eed681a53,02/14/2023 16:58:15,santa catarina,9,limpa-vidros automotivo,19.9,179.1
+c8979026-838a-42e1-9942-5ac18864dea6,04/29/2023 05:19:10,santa catarina,55,limpa-vidros automotivo,19.9,1094.5
+fa8cac59-cfe8-4519-bc93-3a5630d1ab3f,01/12/2023 21:08:21,santa catarina,31,limpa-tapetes automotivo,34.9,1081.9
+723aedfe-da69-488d-b05f-3f1d8574b10a,01/11/2023 05:09:43,santa catarina,74,shampoo para carros,29.9,2212.6
+333758f3-d51d-42a0-bd3b-cd21d6c18742,04/18/2023 11:58:49,rio grande do sul,76,removedor de insetos,19.9,1512.4
+f9c575f3-ba9e-4430-9486-efeceef4c6ce,03/26/2023 07:54:47,paraná,3,limpa-vidros automotivo,19.9,59.7
+dabcfd4c-ed68-410f-8515-77b0c5b2bc40,04/29/2023 18:00:36,santa catarina,10,limpa-vidros automotivo,19.9,199.0
+c5a9c2d3-98ec-4734-b0b6-1a122b2ed08b,03/10/2023 11:31:57,santa catarina,9,shampoo para carros,29.9,269.1
+ecc6c5cf-1db1-4eae-a972-e28a66b31fac,02/24/2023 21:50:21,santa catarina,48,removedor de insetos,19.9,955.2
+c91c1547-6913-474e-aece-2bfa8a9d11bb,04/02/2023 12:58:36,rio grande do sul,41,condicionador de couro automotivo,49.9,2045.9
+d862dd6c-e459-4d91-b909-e728f4c4f842,04/20/2023 02:07:36,rio grande do sul,15,limpa-vidros automotivo,19.9,298.5
+b7b88d73-114c-4224-8148-9ef627530799,01/05/2023 17:12:25,rio grande do sul,83,polidor de metais automotivo,39.9,3311.7
+0d889061-584e-4cf8-bdd9-023a61aff310,04/07/2023 22:31:42,rio grande do sul,61,limpa-estofados automotivo,49.9,3043.9
+4373f1a9-3d10-453e-b866-ffcd26628b16,04/14/2023 09:26:55,rio grande do sul,85,limpa-vidros automotivo,19.9,1691.5
+1faad185-d497-4ebf-b5af-a3e19eab9d59,02/03/2023 10:21:00,paraná,24,removedor de insetos,19.9,477.6
+883243b0-50ad-43fb-a1c7-d8705290e845,04/27/2023 12:13:52,paraná,25,shampoo para carros,29.9,747.5
+198429c1-9ed5-4793-bf23-36952e3c1cac,03/29/2023 18:22:45,santa catarina,62,limpa-rodas,24.9,1543.8
+9b1607c4-ba4a-4e11-af9f-015d7f68cf35,04/10/2023 11:27:23,paraná,7,limpa-vidros automotivo,19.9,139.3
+6263c199-cdfd-4f7d-bd5f-d00b2ff8043e,03/12/2023 16:47:06,paraná,80,limpa-tapetes automotivo,34.9,2792.0
+f7ced6c4-e3db-4097-9c1d-c20690a3473a,03/25/2023 13:59:38,paraná,73,limpa-vidros automotivo,19.9,1452.7
+ea8a8fe6-7809-494c-ae9c-55d07233a6ec,02/10/2023 14:46:10,santa catarina,29,limpa-tapetes automotivo,34.9,1012.1
+32af80b2-cfe1-49c3-bcfa-0211d160e46e,03/20/2023 09:58:25,santa catarina,46,cera automotiva,39.9,1835.4
+8d12baec-c843-44db-85eb-d4dd0100269d,03/24/2023 13:33:43,paraná,16,desodorizador de ar automotivo,14.9,238.4
+8d9a5039-5513-45af-bc0e-221189f3224f,04/17/2023 11:35:06,santa catarina,90,limpa-rodas,24.9,2241.0
+e9f197ef-b398-42df-90ff-d2d27623df03,02/03/2023 16:22:43,santa catarina,67,desodorizador de ar automotivo,14.9,998.3
+e891f2f4-866b-48a4-9e17-8b9e6259307f,02/07/2023 00:00:46,rio grande do sul,48,shampoo para carros,29.9,1435.2
+57bc25a2-15dc-4dc8-aa62-31275f229b28,04/28/2023 22:42:54,santa catarina,76,condicionador de couro automotivo,49.9,3792.4
+6d69526b-d91e-4de2-8350-dd90883560c0,04/16/2023 19:05:22,paraná,42,limpa-vidros automotivo,19.9,835.8
+d87c7e09-255f-451d-aabb-6a013ae10011,02/19/2023 22:43:03,rio grande do sul,58,limpa-estofados automotivo,49.9,2894.2
+f4222098-bb9a-458c-aed2-c8db13a44ea3,02/13/2023 18:37:54,paraná,2,limpa-estofados automotivo,49.9,99.8
+564b3fd8-aa13-4584-ab10-5688fc57d9d2,01/14/2023 14:12:14,paraná,30,limpa-tapetes automotivo,34.9,1047.0
+bae64588-1945-461d-a617-1b4b50cffb30,04/22/2023 09:00:23,paraná,35,limpa-estofados automotivo,49.9,1746.5
+8de75488-7500-4c93-ac25-3e4e7005e944,04/10/2023 09:22:33,rio grande do sul,9,shampoo para carros,29.9,269.1
+fa7cee54-8f42-41f4-a893-d2ac70173f83,01/18/2023 01:16:19,paraná,34,limpa-estofados automotivo,49.9,1696.6
+232a3416-a7e5-4e72-a9aa-4b79f0ebf63c,04/09/2023 15:10:27,santa catarina,99,limpa-vidros automotivo,19.9,1970.1
+3acb1130-7f19-4230-8e78-e945026786d6,02/18/2023 10:28:35,santa catarina,14,limpa-estofados automotivo,49.9,698.6
+ab69303f-b481-402c-a9ed-b79dc87158f6,03/29/2023 11:32:21,santa catarina,72,limpa-rodas,24.9,1792.8
+aee1b7a8-6cf7-4d31-a302-077530c5c8fc,02/13/2023 14:33:59,santa catarina,52,limpa-estofados automotivo,49.9,2594.8
+cb8b4be1-f556-4ccb-bbd3-6b04f0ce6cd4,01/14/2023 03:34:43,paraná,58,cera automotiva,39.9,2314.2
+568085e8-1914-4887-bf49-7a6edea0ac62,03/04/2023 18:36:36,paraná,69,shampoo para carros,29.9,2063.1
+40fb2a52-3091-4076-b557-795cb060d80a,02/07/2023 10:19:34,santa catarina,90,polidor de metais automotivo,39.9,3591.0
+e645e33c-5a2e-439d-889a-3113a794a356,03/15/2023 04:25:58,rio grande do sul,9,cera automotiva,39.9,359.1
+e81285fe-61e2-4e77-b456-3e10bc1e76e6,02/18/2023 08:51:55,paraná,59,cera automotiva,39.9,2354.1
+0b290bc0-69b7-4b95-aef2-0c99391d5e20,03/21/2023 14:52:38,rio grande do sul,18,limpa-tapetes automotivo,34.9,628.2
+55929cb8-2309-4841-98c2-309d9bd66cb8,04/15/2023 08:02:18,rio grande do sul,13,condicionador de couro automotivo,49.9,648.7
+6f25b2d2-1ef3-4bb4-85ca-b952ceed5504,01/04/2023 17:22:34,paraná,86,polidor de metais automotivo,39.9,3431.4
+82488013-8444-4a97-a591-24c47a349626,04/19/2023 22:16:22,santa catarina,8,polidor de metais automotivo,39.9,319.2
+63aa0b95-07c2-48f1-9853-f9dd3017cf69,03/06/2023 04:17:55,santa catarina,78,cera automotiva,39.9,3112.2
+b874773b-f336-4ae0-9987-49baf4d2aeec,01/29/2023 17:05:26,santa catarina,59,limpa-rodas,24.9,1469.1
+57532ff8-7711-4551-8988-00bf50b7eb56,02/26/2023 12:13:54,rio grande do sul,69,polidor de metais automotivo,39.9,2753.1
+fa5c1b89-e11b-45be-aeef-dba8ff998d0d,02/26/2023 19:57:31,santa catarina,52,cera automotiva,39.9,2074.8
+9e32ed7a-29ae-4e50-b5fb-b08ed8c940c8,02/07/2023 04:56:23,paraná,10,limpa-estofados automotivo,49.9,499.0
+13f3cfe8-b5ee-439f-a9ec-74f1777cba6d,04/25/2023 19:40:52,santa catarina,51,removedor de insetos,19.9,1014.9
+9ffd7b89-46f5-4ce3-9f79-c57eea60cf6e,03/14/2023 15:57:08,santa catarina,19,shampoo para carros,29.9,568.1
+a1e2f70b-d1a1-45ce-98fe-497b9bed0583,04/24/2023 08:10:48,santa catarina,57,condicionador de couro automotivo,49.9,2844.3
+4269fbc5-3fd5-48c5-9b92-342e986e221f,04/27/2023 22:46:21,paraná,97,cera automotiva,39.9,3870.3
+ff68b6f4-5e5e-44f5-97c8-0d94c234bea7,03/22/2023 08:30:04,paraná,95,removedor de insetos,19.9,1890.5
+dda304ff-6898-4bff-a69d-562f0f676b0d,01/04/2023 11:33:32,santa catarina,57,limpa-vidros automotivo,19.9,1134.3
+16c8a947-9d6c-4d66-b31e-513492790d66,01/30/2023 02:47:42,paraná,45,limpa-tapetes automotivo,34.9,1570.5
+ef4c6a03-82df-424a-be21-f8953d8789d7,01/14/2023 11:33:49,santa catarina,35,cera automotiva,39.9,1396.5
+ea6cb483-95aa-4b09-9c64-3cc04fc27b8c,03/28/2023 11:27:24,rio grande do sul,3,limpa-rodas,24.9,74.7
+fdb5517d-f9e8-415b-b8ef-4619f9008899,04/09/2023 23:02:06,paraná,73,shampoo para carros,29.9,2182.7
+55766d95-6c40-43af-beae-0703ca096525,03/07/2023 03:37:28,rio grande do sul,24,desodorizador de ar automotivo,14.9,357.6
+d9edd7c7-5249-4058-ab9c-fa88d38b4847,03/09/2023 08:02:14,paraná,66,desodorizador de ar automotivo,14.9,983.4
+a3d5d590-2682-4df6-aa4e-1719b1f0c669,02/06/2023 05:21:55,rio grande do sul,75,condicionador de couro automotivo,49.9,3742.5
+5199bc67-10bf-4254-bed2-4d76d1d5aae5,01/29/2023 18:25:45,paraná,73,polidor de metais automotivo,39.9,2912.7
+a4b12203-6feb-47ad-b54e-4155d958306d,01/01/2023 21:34:01,santa catarina,58,limpa-rodas,24.9,1444.2
+c56dc66a-f709-47d5-8cb4-af945e8b0a6f,03/16/2023 22:28:13,rio grande do sul,71,polidor de metais automotivo,39.9,2832.9
+7a722c64-7038-413c-a66a-7d244b780262,01/27/2023 20:16:22,rio grande do sul,57,condicionador de couro automotivo,49.9,2844.3
+3ca15e90-8fc0-4e2c-a17f-c40a847a4908,04/12/2023 03:35:54,rio grande do sul,26,limpa-rodas,24.9,647.4
+9b70325d-846e-4f05-a123-d2740ea99488,04/04/2023 12:27:05,rio grande do sul,48,limpa-tapetes automotivo,34.9,1675.2
+a383f4fe-ce96-4fc9-a5e7-8ca012a10829,04/02/2023 01:59:27,santa catarina,2,limpa-rodas,24.9,49.8
+c63e1db4-79c2-4ccc-adb5-836521e021a9,03/27/2023 13:02:05,rio grande do sul,8,limpa-vidros automotivo,19.9,159.2
+168bbfd7-af8a-4a17-b12b-71464a7feff7,03/03/2023 02:10:32,paraná,97,limpa-vidros automotivo,19.9,1930.3
+b45157dd-eb8d-47b0-b618-2e22cc5f1b39,02/06/2023 09:33:46,rio grande do sul,56,desodorizador de ar automotivo,14.9,834.4
+dafe78fd-3a1b-4e7c-8177-aafee95fd5ce,02/19/2023 12:01:22,paraná,15,limpa-estofados automotivo,49.9,748.5
+45759c1b-5c65-443a-bb8a-2f48ba605233,04/17/2023 08:28:52,rio grande do sul,38,condicionador de couro automotivo,49.9,1896.2
+bcf4c37e-8378-4ff9-bf80-077690525cb7,03/08/2023 06:10:04,santa catarina,84,limpa-vidros automotivo,19.9,1671.6
+c11fe3d8-373c-4f5e-9764-9d604c9c9a88,03/11/2023 02:39:28,rio grande do sul,93,shampoo para carros,29.9,2780.7
+c3a3b7d8-c100-4e66-a759-2e4a375d9b01,01/01/2023 12:59:20,rio grande do sul,78,limpa-estofados automotivo,49.9,3892.2
+89fbb420-f155-4701-b0aa-9ef6831790ab,03/03/2023 19:03:09,rio grande do sul,40,condicionador de couro automotivo,49.9,1996.0
+b69ca3fc-27d2-4051-8bb4-9f97d747fc19,02/21/2023 14:20:43,paraná,14,limpa-vidros automotivo,19.9,278.6
+d5d7d5fd-4242-4b16-b27b-30291c64fb05,02/11/2023 13:15:37,paraná,70,limpa-tapetes automotivo,34.9,2443.0
+fc12a586-3fb1-46ce-95c2-293195ff8e77,04/16/2023 01:03:31,paraná,27,limpa-rodas,24.9,672.3
+50e740b1-1257-43e4-ad6c-04806a3578ff,04/28/2023 12:21:00,paraná,40,limpa-vidros automotivo,19.9,796.0
+5f2f3a58-1eff-4882-bcfa-505277f2baff,03/19/2023 16:05:38,rio grande do sul,10,limpa-rodas,24.9,249.0
+58a78d72-1b40-4ae9-bf9e-424cd0159e3f,01/28/2023 13:51:56,rio grande do sul,74,limpa-estofados automotivo,49.9,3692.6
+5d915250-4266-4b49-a662-c22b4419b227,03/23/2023 15:13:56,rio grande do sul,69,limpa-rodas,24.9,1718.1
+26c96cbb-f398-48be-ab95-b06b680814da,02/19/2023 19:16:45,rio grande do sul,57,limpa-estofados automotivo,49.9,2844.3
+a71906da-c634-4afc-b84e-24e111556a77,01/24/2023 17:09:42,paraná,48,limpa-vidros automotivo,19.9,955.2
+1e2b574c-1d04-4e07-91bb-873be53f7c23,04/02/2023 23:31:26,rio grande do sul,87,cera automotiva,39.9,3471.3
+28bbf304-7e7a-4698-8629-b000b9bf7768,04/09/2023 16:03:18,santa catarina,100,limpa-estofados automotivo,49.9,4990.0
+5d83d62e-dce2-4d4c-95f3-c0f25d1d09dd,02/17/2023 07:04:51,santa catarina,91,condicionador de couro automotivo,49.9,4540.9
+597be7f4-95d3-44c8-ac3d-f2cd37470022,03/20/2023 02:55:44,rio grande do sul,99,removedor de insetos,19.9,1970.1
+34fe4645-a0af-4785-8216-db4340f422a6,02/26/2023 01:53:41,rio grande do sul,90,desodorizador de ar automotivo,14.9,1341.0
+58008625-089c-4639-b0eb-00d197f1b4f4,04/19/2023 09:17:35,santa catarina,94,condicionador de couro automotivo,49.9,4690.6
+251c3262-1049-4226-8a2b-889b1f322153,03/04/2023 02:07:41,santa catarina,42,limpa-rodas,24.9,1045.8
+906cf79e-4f07-42f0-9d83-46334c17d085,03/31/2023 16:12:35,santa catarina,23,polidor de metais automotivo,39.9,917.7
+88458e4d-51b3-4fcf-9406-48869acb856b,04/17/2023 13:58:53,rio grande do sul,22,cera automotiva,39.9,877.8
+92ac44c6-9b77-44cd-af8a-c3d2e957a78f,04/05/2023 08:31:22,rio grande do sul,71,shampoo para carros,29.9,2122.9
+2b33bec4-5421-46ed-9b3e-3f236623fc90,01/14/2023 02:35:34,rio grande do sul,12,desodorizador de ar automotivo,14.9,178.8
+7f61fd45-082c-4047-9593-4b060a61fdb9,02/28/2023 01:29:55,rio grande do sul,19,shampoo para carros,29.9,568.1
+de985a80-3931-44aa-b948-f31ecdf66ea5,04/14/2023 03:41:19,paraná,61,removedor de insetos,19.9,1213.9
+96ba4ee0-038f-483e-9ef4-3efaefab6537,02/08/2023 16:52:31,paraná,86,polidor de metais automotivo,39.9,3431.4
+fa79f0cf-b9ba-46ac-8899-b874ba63fcdf,01/27/2023 04:55:51,paraná,54,cera automotiva,39.9,2154.6
+2b555af2-bd92-48c1-bc27-02276f148da8,02/06/2023 12:02:42,santa catarina,61,limpa-vidros automotivo,19.9,1213.9
+936d6ddd-22d3-41fe-a7d5-a831cadcdf59,04/28/2023 02:29:33,santa catarina,27,limpa-tapetes automotivo,34.9,942.3
+c9a24b40-3381-4acc-ad89-84538f603a2b,03/02/2023 04:39:16,santa catarina,14,polidor de metais automotivo,39.9,558.6
+eb4a0508-49f4-4454-bace-2010f7bd9fe9,03/07/2023 11:04:05,rio grande do sul,86,limpa-vidros automotivo,19.9,1711.4
+b105b316-c9ae-4ed6-a31c-996c78053457,02/19/2023 16:27:57,paraná,58,polidor de metais automotivo,39.9,2314.2
+98ce6f0a-a9dc-4a05-9a48-d41b0540520c,03/10/2023 14:57:55,rio grande do sul,47,polidor de metais automotivo,39.9,1875.3
+2792bfae-dcd3-4027-ae66-37cb880e7976,03/01/2023 23:33:04,santa catarina,75,condicionador de couro automotivo,49.9,3742.5
+370412c0-aa0c-4609-aeba-307d7cb078ea,02/01/2023 21:02:07,paraná,19,condicionador de couro automotivo,49.9,948.1
+59c7c435-45b9-4c39-97d1-17d5449c7d3f,02/25/2023 10:01:00,santa catarina,11,removedor de insetos,19.9,218.9
+47c55763-1127-4aa4-866a-390f69097a71,03/27/2023 07:14:24,rio grande do sul,70,removedor de insetos,19.9,1393.0
+f86654ce-7ce6-41fb-a965-dfd50c6f1476,03/03/2023 13:55:25,santa catarina,63,limpa-vidros automotivo,19.9,1253.7
+53748812-29b7-4191-8ec0-8492d4d5a98f,03/18/2023 09:35:15,paraná,96,cera automotiva,39.9,3830.4
+05e1e1f3-050d-40e1-9015-5743e40c2180,01/09/2023 04:27:09,paraná,52,shampoo para carros,29.9,1554.8
+5450cf31-566d-427d-8786-c722fecf0026,04/20/2023 23:03:54,paraná,27,desodorizador de ar automotivo,14.9,402.3
+57bc4870-5415-40b3-8f49-1932e4e06c71,02/20/2023 06:36:47,santa catarina,94,polidor de metais automotivo,39.9,3750.6
+1395ff5e-cbe4-48c5-bcaf-87514981b2b6,01/06/2023 14:50:58,santa catarina,72,cera automotiva,39.9,2872.8
+2b6016a2-4ae3-449b-9c22-e76d7201fe97,04/08/2023 10:29:44,santa catarina,23,desodorizador de ar automotivo,14.9,342.7
+0fc3d4eb-b474-42a0-bb56-6b1a534510ca,04/02/2023 05:28:47,rio grande do sul,20,polidor de metais automotivo,39.9,798.0
+fe75b14d-f4f4-4211-9d97-0f45eeb49d7d,04/24/2023 06:31:04,santa catarina,44,limpa-estofados automotivo,49.9,2195.6
+3f97e62a-732c-40fe-afb7-a05e63fdfd8c,01/27/2023 06:10:08,santa catarina,64,limpa-rodas,24.9,1593.6
+15501c84-f194-4829-81f5-d0c6e24176e5,01/21/2023 18:27:15,rio grande do sul,71,shampoo para carros,29.9,2122.9
+4e04bdab-acd3-49a2-973e-f4eb7257f04e,04/28/2023 04:29:56,paraná,22,limpa-estofados automotivo,49.9,1097.8
+b6c78112-da55-4a7a-9cfd-4cfa9553b438,03/15/2023 00:00:44,rio grande do sul,14,limpa-estofados automotivo,49.9,698.6
+17a2fc17-daf4-4b70-848e-de76e4b9813a,02/16/2023 09:50:25,paraná,69,limpa-tapetes automotivo,34.9,2408.1
+e96a0df3-442d-4c3e-9412-576645ed46d8,04/20/2023 17:13:25,santa catarina,53,limpa-tapetes automotivo,34.9,1849.7
+c6794bff-736a-4fda-b5d4-a09ff096aa8b,01/09/2023 13:34:13,santa catarina,68,limpa-estofados automotivo,49.9,3393.2
+71d9f68a-314e-4d6d-befd-d3d1e989256d,03/24/2023 12:03:37,rio grande do sul,20,removedor de insetos,19.9,398.0
+14d4f75c-fd56-4418-a003-4f3f31adcdca,04/20/2023 09:25:46,rio grande do sul,68,limpa-rodas,24.9,1693.2
+060e539b-550d-4a09-b269-d39683ad704e,02/03/2023 21:02:28,rio grande do sul,68,desodorizador de ar automotivo,14.9,1013.2
+9cc4769a-a325-409e-9058-09949de3c11f,02/24/2023 11:24:46,santa catarina,96,limpa-tapetes automotivo,34.9,3350.4
+921f8c9a-8f43-4751-8805-7fa0d029ed76,01/01/2023 20:08:39,rio grande do sul,43,cera automotiva,39.9,1715.7
+d1774fb5-1858-4445-824c-ea8a5b6f9a90,01/06/2023 04:07:34,santa catarina,41,condicionador de couro automotivo,49.9,2045.9
+a3b517db-1471-4887-ad54-1874970cdff1,03/06/2023 10:20:50,paraná,22,limpa-estofados automotivo,49.9,1097.8
+914e6ec9-b746-45c6-af0e-8454f6987577,04/14/2023 06:42:09,santa catarina,91,polidor de metais automotivo,39.9,3630.9
+ee6db583-364e-4db5-8ae4-abcf8c461a40,02/04/2023 14:44:34,santa catarina,3,limpa-rodas,24.9,74.7
+fe68a7d2-35df-44eb-ba24-332d3ba9aaf2,02/27/2023 18:26:07,rio grande do sul,45,removedor de insetos,19.9,895.5
+ac317918-0372-4b10-904f-d0a69e31ae9e,03/11/2023 08:46:42,rio grande do sul,81,removedor de insetos,19.9,1611.9
+751cf3d9-3a25-4962-a7bf-ad5b2e29231b,02/18/2023 22:45:44,paraná,69,polidor de metais automotivo,39.9,2753.1
+cdb961d7-17ed-46ec-b73c-d60cb2e3fab4,03/06/2023 00:57:51,rio grande do sul,54,limpa-tapetes automotivo,34.9,1884.6
+7fd49794-d995-42b0-8dc6-a6f69b4596ac,04/18/2023 15:07:56,rio grande do sul,1,desodorizador de ar automotivo,14.9,14.9
+0a8b5afa-a41c-4f78-8237-a9abbccf2fd3,02/15/2023 19:43:12,rio grande do sul,31,removedor de insetos,19.9,616.9
+480c5cab-e85a-425b-8c75-c66b219597b8,02/11/2023 22:13:03,paraná,14,limpa-rodas,24.9,348.6
+694df860-cedf-48a6-83b5-c8e8289b42ec,04/22/2023 23:18:21,santa catarina,16,limpa-rodas,24.9,398.4
+09955310-303a-4aa5-ba29-1a3a655c9859,04/12/2023 03:02:51,rio grande do sul,44,limpa-tapetes automotivo,34.9,1535.6
+74bb6a67-cc83-4ba7-988b-286899d73cf0,01/02/2023 20:28:16,rio grande do sul,91,desodorizador de ar automotivo,14.9,1355.9
+dcd6c8f6-9768-447a-9ef1-c55bd1e21d06,01/09/2023 00:36:41,santa catarina,84,shampoo para carros,29.9,2511.6
+2b7236f7-71e6-4f4a-8ef4-f04691a8b2b8,01/18/2023 08:08:24,santa catarina,2,limpa-vidros automotivo,19.9,39.8
+52f6869a-a25a-4a93-9d17-9c5fab462f2a,02/20/2023 16:08:42,rio grande do sul,69,condicionador de couro automotivo,49.9,3443.1
+250a0e52-9243-4ae3-9f6c-a32250c5e643,01/10/2023 09:44:51,paraná,41,limpa-vidros automotivo,19.9,815.9
+d0a8f168-8b22-4d86-a8e9-2fc70966b3b7,03/29/2023 06:38:13,paraná,49,removedor de insetos,19.9,975.1
+14fcd292-a16b-467c-b106-d5fc110ccc3d,01/30/2023 22:53:45,paraná,25,desodorizador de ar automotivo,14.9,372.5
+ecf5ddc0-cee4-4b00-9919-f0c8256e7dea,03/25/2023 14:09:34,rio grande do sul,24,removedor de insetos,19.9,477.6
+6f66c3da-f850-42d8-9933-432e136c72e6,04/12/2023 20:50:44,paraná,11,limpa-rodas,24.9,273.9
+d377ff73-75b0-40b5-b246-f97dc36e9d64,02/07/2023 19:24:32,rio grande do sul,74,condicionador de couro automotivo,49.9,3692.6
+910596ef-76ed-4cc7-a7e1-de444ce89d59,01/21/2023 02:31:00,santa catarina,87,desodorizador de ar automotivo,14.9,1296.3
+ed0cc026-cf74-4558-b482-f2313d60b3e4,03/07/2023 21:18:57,rio grande do sul,66,desodorizador de ar automotivo,14.9,983.4
+e2207139-83e5-479c-ab74-bc1a25679a6c,04/29/2023 09:24:34,paraná,68,limpa-tapetes automotivo,34.9,2373.2
+7374d735-2899-4e2d-b5df-e216e321009d,01/15/2023 02:39:22,santa catarina,95,limpa-vidros automotivo,19.9,1890.5
+17bd1d17-9e35-434a-8eaa-b33f81b6e6d4,01/26/2023 19:37:23,santa catarina,89,polidor de metais automotivo,39.9,3551.1
+0a1de1f7-8a50-4028-903d-464de2f51acb,04/27/2023 12:55:03,santa catarina,90,cera automotiva,39.9,3591.0
+3a3a2512-072a-4860-8c12-8205ef7726b3,01/13/2023 12:29:28,rio grande do sul,82,limpa-tapetes automotivo,34.9,2861.8
+f1688f68-8ee0-4d95-8d7b-0c2762747528,04/25/2023 20:47:42,rio grande do sul,61,limpa-rodas,24.9,1518.9
+edd12198-2467-434c-8878-dc258c709914,01/21/2023 19:16:17,rio grande do sul,19,limpa-rodas,24.9,473.1
+128ee042-db95-4336-937e-1397ad9f9562,01/06/2023 08:40:46,santa catarina,70,limpa-estofados automotivo,49.9,3493.0
+d1e508bd-207e-4629-9356-665e1074eb13,04/02/2023 18:49:34,paraná,71,condicionador de couro automotivo,49.9,3542.9
+dc701d4b-8284-40e8-8954-c6f32adf63e8,02/28/2023 02:45:57,santa catarina,99,removedor de insetos,19.9,1970.1
+7e3571a0-05f1-44f6-80d6-dd1f0d941a18,01/09/2023 15:51:48,rio grande do sul,38,cera automotiva,39.9,1516.2
+f2ef4141-cf25-453a-ab3c-b20228a9f4a6,01/05/2023 10:13:15,santa catarina,24,polidor de metais automotivo,39.9,957.6
+d3d08e80-f316-4ff9-8485-392d00046aed,04/07/2023 11:09:45,santa catarina,76,desodorizador de ar automotivo,14.9,1132.4
+48f974e8-6dc6-4db9-bf0b-877dd36930ca,04/17/2023 18:18:34,santa catarina,40,polidor de metais automotivo,39.9,1596.0
+f2649614-c556-44b5-b300-3b26dd142887,04/15/2023 09:00:32,paraná,10,cera automotiva,39.9,399.0
+286909f2-f31c-4b43-8419-8284844852bd,02/15/2023 15:48:07,santa catarina,67,limpa-tapetes automotivo,34.9,2338.3
+8a99ed91-6c66-4649-961b-67c0c86e5333,01/10/2023 10:11:47,rio grande do sul,16,cera automotiva,39.9,638.4
+00b81db3-4929-4a64-94e7-af97b6ef1fc1,04/06/2023 08:43:04,paraná,21,condicionador de couro automotivo,49.9,1047.9
+1751caca-81df-447e-953e-b90a753c2bbb,01/21/2023 06:31:28,santa catarina,90,condicionador de couro automotivo,49.9,4491.0
+13006b85-5b28-4011-b835-133229714949,03/18/2023 05:06:42,paraná,8,cera automotiva,39.9,319.2
+af887b83-577f-4ea5-9b70-93fa1c8d09f9,02/11/2023 21:28:26,rio grande do sul,27,limpa-rodas,24.9,672.3
+93043593-19cb-49f8-975c-69ef465a6373,02/12/2023 23:47:44,rio grande do sul,90,removedor de insetos,19.9,1791.0
+c1d7987c-baa2-42ab-9560-73699da2cb80,01/21/2023 16:14:25,paraná,62,removedor de insetos,19.9,1233.8
+b525c331-1661-4bd4-a910-c64cc43347a7,02/08/2023 06:40:47,rio grande do sul,93,limpa-vidros automotivo,19.9,1850.7
+d8ac2761-9bd3-4083-ac16-f65d7f81b5da,01/02/2023 19:39:12,rio grande do sul,30,cera automotiva,39.9,1197.0
+8304e33e-8a83-418a-945c-b8ffd3b80b2f,04/24/2023 20:09:06,paraná,20,limpa-tapetes automotivo,34.9,698.0
+2a9509aa-1804-47cd-a82a-b7669ce8f286,03/28/2023 03:26:30,rio grande do sul,5,limpa-rodas,24.9,124.5
+bdb4f880-4278-4fe4-819d-285d56936206,03/24/2023 20:41:12,rio grande do sul,14,shampoo para carros,29.9,418.6
+8e9b3bab-2fef-49e3-ac39-455acc74e626,03/12/2023 14:02:14,santa catarina,10,cera automotiva,39.9,399.0
+33734c89-7da0-4018-b71f-3a60df69e4cb,03/26/2023 07:22:41,santa catarina,86,limpa-rodas,24.9,2141.4
+0310abf4-bcb7-411a-980d-9633a0505be3,03/29/2023 10:43:11,rio grande do sul,70,limpa-tapetes automotivo,34.9,2443.0
+8b76bd12-df9c-4999-9631-dddea54337b6,04/09/2023 06:45:16,paraná,56,removedor de insetos,19.9,1114.4
+118e0ec9-4305-4f6f-84b5-8a6070988218,01/10/2023 15:40:40,santa catarina,88,shampoo para carros,29.9,2631.2
+3bc762fc-f98e-4580-aba0-a5c7c4a2215d,01/07/2023 09:14:47,santa catarina,58,desodorizador de ar automotivo,14.9,864.2
+6087305a-9ab1-4a66-aa20-93a9f411ec97,02/22/2023 06:58:43,paraná,84,cera automotiva,39.9,3351.6
+992a966e-614c-431d-863f-5e3e325a2f75,03/27/2023 15:17:57,rio grande do sul,1,polidor de metais automotivo,39.9,39.9
+5d46e6f9-2a78-48dd-98dd-bf39d5f764a8,02/15/2023 20:29:15,rio grande do sul,85,limpa-vidros automotivo,19.9,1691.5
+e6669436-fb8f-40dc-b0d3-a1590d9107a1,03/16/2023 12:07:32,santa catarina,47,limpa-estofados automotivo,49.9,2345.3
+a4e0fbea-dff8-478f-a750-50de8b2983ab,02/20/2023 14:41:12,paraná,72,limpa-tapetes automotivo,34.9,2512.8
+dd743e3e-7b40-46bb-968d-8eb87d49ba22,03/25/2023 16:58:32,rio grande do sul,77,limpa-estofados automotivo,49.9,3842.3
+acd90d90-591c-4650-81bf-a9b2364c9bb6,03/05/2023 05:58:36,santa catarina,72,desodorizador de ar automotivo,14.9,1072.8
+bdfdfa77-8616-4a0c-871c-0c14cc1c4e12,03/12/2023 09:42:26,santa catarina,81,limpa-rodas,24.9,2016.9
+731fbe47-5df5-466f-9fa7-be45f7d622e0,03/16/2023 15:34:55,santa catarina,60,desodorizador de ar automotivo,14.9,894.0
+8ecf816a-82c7-4aa9-ab40-62c5d65fab63,01/20/2023 04:04:16,paraná,60,shampoo para carros,29.9,1794.0
+f6b3d430-f4ea-4f90-9898-c82c20b2f626,04/24/2023 10:56:38,santa catarina,17,limpa-estofados automotivo,49.9,848.3
+3de726b5-8942-4d71-a73a-be1b27a0438e,01/01/2023 16:00:19,rio grande do sul,27,polidor de metais automotivo,39.9,1077.3
+29bb5c2e-9c3a-4486-8a38-a1690d4408d3,01/08/2023 15:37:31,rio grande do sul,45,limpa-rodas,24.9,1120.5
+9efbfd0a-50e2-45d1-8c5e-d045151640a6,03/28/2023 13:22:49,santa catarina,32,desodorizador de ar automotivo,14.9,476.8
+f00bcb1d-e499-4d6b-9a01-e67cf7f0736a,01/14/2023 04:16:29,santa catarina,11,condicionador de couro automotivo,49.9,548.9
+3bb65f85-54d0-4add-87e7-8b2f2baf312b,01/18/2023 00:20:19,santa catarina,71,limpa-tapetes automotivo,34.9,2477.9
+4bc3ed3f-7d79-438e-a96c-6dedc91a7ec8,02/22/2023 11:24:09,paraná,15,limpa-estofados automotivo,49.9,748.5
+350967d7-34a8-49ae-ace7-f0ac7b563bda,03/10/2023 03:28:56,paraná,11,removedor de insetos,19.9,218.9
+74c7aae1-049c-4816-8bc7-471e18eb366d,04/04/2023 17:39:16,rio grande do sul,5,desodorizador de ar automotivo,14.9,74.5
+5feda61c-d8c1-4a30-8fd6-4dc7fbb85252,04/20/2023 02:14:30,rio grande do sul,39,polidor de metais automotivo,39.9,1556.1
+76a42916-cfc4-4cf7-a1a0-23f0fbb9947e,03/28/2023 02:15:22,santa catarina,66,removedor de insetos,19.9,1313.4
+99f3653d-c170-4ae0-9327-022499a29a57,04/11/2023 21:41:55,rio grande do sul,70,limpa-estofados automotivo,49.9,3493.0
+ba8193a2-8074-4053-8438-836fd03663f1,03/16/2023 15:20:17,paraná,40,limpa-vidros automotivo,19.9,796.0
+d131bf95-557b-4e7d-8542-aa742c7c695f,01/13/2023 18:05:49,paraná,98,polidor de metais automotivo,39.9,3910.2
+c3db1d20-6aad-40d4-af05-9bcebe2661c2,01/25/2023 09:19:36,paraná,76,limpa-vidros automotivo,19.9,1512.4
+22ec592e-7bf4-4295-828a-fb062c17821b,04/17/2023 08:13:09,santa catarina,61,limpa-vidros automotivo,19.9,1213.9
+2932d8bf-e924-4ab8-b774-cc7ad57d2317,03/09/2023 13:48:37,paraná,67,polidor de metais automotivo,39.9,2673.3
+6b521fe5-7e3c-4a80-a84d-9b01bcf2e642,03/19/2023 21:43:42,rio grande do sul,17,limpa-tapetes automotivo,34.9,593.3
+0233e409-1e09-4508-a676-290f15612f2e,03/07/2023 05:36:37,santa catarina,99,limpa-vidros automotivo,19.9,1970.1
+00161fec-28ac-41a1-b71f-c2f9cf0c838f,01/06/2023 07:30:03,santa catarina,42,limpa-vidros automotivo,19.9,835.8
+b1d566aa-9d47-4e24-ab3e-d84642d5f1e8,02/11/2023 20:28:48,rio grande do sul,99,limpa-vidros automotivo,19.9,1970.1
+9b4bfd97-5a03-40c9-bee6-a58b4429809f,03/10/2023 10:57:44,paraná,23,limpa-tapetes automotivo,34.9,802.7
+931d3b35-25f9-4f57-bca8-4b968b491cde,01/06/2023 10:04:46,santa catarina,47,condicionador de couro automotivo,49.9,2345.3
+dc1c7281-fcde-48c6-8107-52b9583b0e42,04/27/2023 12:53:18,rio grande do sul,24,polidor de metais automotivo,39.9,957.6
+19e23c99-1eb3-4ecc-badf-520ce506d6c1,01/17/2023 08:32:39,rio grande do sul,70,limpa-vidros automotivo,19.9,1393.0
+965bc8fd-3df9-4523-8f75-483eb884af85,03/04/2023 10:24:49,paraná,74,limpa-tapetes automotivo,34.9,2582.6
+45e467e0-275e-4ffd-bc0f-53eabbbd0d49,01/19/2023 01:15:55,santa catarina,43,condicionador de couro automotivo,49.9,2145.7
+f32a186f-4a68-4727-ae5d-cc51c31a78ae,01/23/2023 19:18:20,paraná,49,limpa-vidros automotivo,19.9,975.1
+191c751a-7416-401b-92d2-913e2814a73e,03/31/2023 13:21:31,rio grande do sul,81,limpa-estofados automotivo,49.9,4041.9
+a67b526f-ac64-4575-93eb-524d959b6e65,03/22/2023 09:50:15,rio grande do sul,100,limpa-vidros automotivo,19.9,1990.0
+031c8cba-ed17-46d4-8a64-97630761cb29,04/05/2023 02:18:38,santa catarina,35,shampoo para carros,29.9,1046.5
+acc74e56-7ded-44f8-ba37-241bc10d800a,03/15/2023 00:52:39,santa catarina,38,removedor de insetos,19.9,756.2
+f909491d-0321-43b5-8a56-f2ae775c1381,04/25/2023 21:24:20,paraná,91,cera automotiva,39.9,3630.9
+03ee32e8-5b9a-455e-bb60-8f057aff9207,03/21/2023 08:05:10,santa catarina,24,polidor de metais automotivo,39.9,957.6
+4c99c94f-0f0b-4e93-99aa-f4bf7902702c,04/07/2023 04:12:50,santa catarina,84,limpa-vidros automotivo,19.9,1671.6
+c8109fb9-1d44-420b-9d13-6bfaf7b2de8c,02/02/2023 18:54:22,santa catarina,47,limpa-rodas,24.9,1170.3
+aa4e3a80-f010-478e-9381-0fc098a71993,02/15/2023 12:15:45,santa catarina,79,removedor de insetos,19.9,1572.1
+650f70a7-8244-409d-bb96-c40302d25a44,04/24/2023 06:29:39,santa catarina,66,removedor de insetos,19.9,1313.4
+b65593e6-c37a-4105-999b-109f5aaf4500,01/31/2023 18:20:58,rio grande do sul,54,condicionador de couro automotivo,49.9,2694.6
+f519f728-072d-46be-a6a3-2b0dc8ef0fe6,02/05/2023 01:58:04,rio grande do sul,8,desodorizador de ar automotivo,14.9,119.2
+b0b40437-92ad-419a-9aaf-9dd58e7914ef,03/21/2023 00:29:27,santa catarina,76,limpa-rodas,24.9,1892.4
+0096f0f4-a837-47dc-b38f-b60261d19e8d,01/14/2023 16:05:12,santa catarina,46,removedor de insetos,19.9,915.4
+b806825b-6805-40f0-9ccd-9847cbc1b853,03/27/2023 16:52:07,santa catarina,56,limpa-vidros automotivo,19.9,1114.4
+d53d50b8-2f27-49fc-91c6-31d3d5e68d6b,01/29/2023 22:08:25,santa catarina,31,limpa-rodas,24.9,771.9
+21446e0a-a76a-48bd-9455-bb6377e85a3f,03/31/2023 12:01:27,paraná,61,cera automotiva,39.9,2433.9
+a569e487-0189-42b3-b276-13cc315bd02f,04/08/2023 18:28:03,paraná,37,limpa-tapetes automotivo,34.9,1291.3
+e94306f2-85ba-4e8b-ad9a-6b71c00739fc,02/08/2023 11:07:41,paraná,65,cera automotiva,39.9,2593.5
+b96bb692-ee9b-4905-8691-b39f39bfe664,03/01/2023 06:27:31,santa catarina,96,polidor de metais automotivo,39.9,3830.4
+f03a605f-5200-4164-98eb-3a4fc364c672,03/08/2023 00:51:40,paraná,61,cera automotiva,39.9,2433.9
+9c3aee8c-7a31-4b16-9d9a-4b1f9c089dc5,03/20/2023 15:21:16,santa catarina,8,limpa-vidros automotivo,19.9,159.2
+807c969d-90d7-4bc0-be0b-a20f8044e103,04/19/2023 09:24:55,santa catarina,1,desodorizador de ar automotivo,14.9,14.9
+951b2492-f8c6-4171-96b7-0d69605dc512,02/09/2023 04:31:30,santa catarina,22,removedor de insetos,19.9,437.8
+ea9a7f8a-dc01-4eb2-af82-759e73b73644,02/17/2023 17:51:05,paraná,80,limpa-rodas,24.9,1992.0
+113a5b9b-ce0f-44b9-b441-6f49eb352f6a,03/14/2023 16:32:57,paraná,76,removedor de insetos,19.9,1512.4
+f7bf4f3f-c693-49ad-b0d6-62a8c3e7ac81,03/04/2023 15:30:59,santa catarina,76,limpa-tapetes automotivo,34.9,2652.4
+b6bdb58d-5452-4239-9197-35e5d2006a9d,01/23/2023 17:43:16,paraná,37,limpa-tapetes automotivo,34.9,1291.3
+6091ca80-dcfb-43b3-a206-a83d4b8ad8b4,04/12/2023 09:06:36,santa catarina,22,removedor de insetos,19.9,437.8
+e1df39af-92b7-4d87-a6ec-228d6cc7c92e,03/22/2023 07:19:15,santa catarina,25,condicionador de couro automotivo,49.9,1247.5
+e483e2ed-0fc7-4f5b-ada8-7f4fa0362c47,03/07/2023 09:39:08,santa catarina,88,polidor de metais automotivo,39.9,3511.2
+c18c11c1-4121-4e62-9982-68b2683c3963,01/02/2023 13:11:44,paraná,50,condicionador de couro automotivo,49.9,2495.0
+1263d8cd-32bc-4669-a837-e0bff3ef2961,02/28/2023 23:33:29,rio grande do sul,78,shampoo para carros,29.9,2332.2
+54c979d0-87d5-4285-8b1b-74b0e289f141,01/20/2023 16:54:35,santa catarina,60,desodorizador de ar automotivo,14.9,894.0
+1991922f-8fe8-4d63-8400-08f4f8f08750,04/29/2023 17:48:27,rio grande do sul,13,limpa-vidros automotivo,19.9,258.7
+78abf972-140f-41f0-b55a-f567216e9d34,02/08/2023 07:45:34,rio grande do sul,99,shampoo para carros,29.9,2960.1
+33a26be8-8779-4f44-a7df-4c05bde51c2f,01/19/2023 04:51:16,rio grande do sul,28,removedor de insetos,19.9,557.2
+531415fb-3ef0-4fd5-9b87-3a3edae73bae,03/02/2023 23:23:58,santa catarina,75,condicionador de couro automotivo,49.9,3742.5
+033117aa-7b9f-4bec-a8d2-6916e5f9f149,04/17/2023 09:49:31,paraná,24,cera automotiva,39.9,957.6
+13bc1663-3a0d-4c6e-afd0-82a80a16cae8,01/31/2023 01:11:36,paraná,39,shampoo para carros,29.9,1166.1
+f13e4c5d-a1ba-4ff9-89be-ac9c228ba905,01/09/2023 21:53:08,paraná,34,limpa-rodas,24.9,846.6
+317b4746-9c8e-4811-9d3f-40e41c4a74fe,03/13/2023 14:48:14,rio grande do sul,94,shampoo para carros,29.9,2810.6
+1da49dc7-8f4a-4e74-9a64-8b21e0177fde,03/26/2023 03:45:02,paraná,50,removedor de insetos,19.9,995.0
+fe6f128a-1e60-4b5e-bdb2-2478a7af4818,01/31/2023 08:24:20,rio grande do sul,77,desodorizador de ar automotivo,14.9,1147.3
+5e054ced-c6da-4d6d-bac9-b60bf0ed465a,02/08/2023 17:41:37,santa catarina,65,cera automotiva,39.9,2593.5
+ff53bf15-422a-44bc-9130-bce321020be6,04/02/2023 22:35:50,rio grande do sul,8,polidor de metais automotivo,39.9,319.2
+b1676566-77b8-4ad3-934d-989ff2c91c50,02/18/2023 15:10:33,rio grande do sul,46,shampoo para carros,29.9,1375.4
+b471e4ea-f888-4e35-823a-ac6c92091238,04/09/2023 14:55:12,paraná,85,cera automotiva,39.9,3391.5
+5b31278c-f9f8-4b3a-8265-66069c55ce17,01/01/2023 14:14:18,santa catarina,19,limpa-vidros automotivo,19.9,378.1
+f9724e47-d0e4-4a04-9461-69f1aa330e9d,02/01/2023 18:44:51,santa catarina,58,limpa-estofados automotivo,49.9,2894.2
+a36fadfd-a180-4adb-8565-da41dbad28e9,04/13/2023 19:20:11,santa catarina,73,limpa-estofados automotivo,49.9,3642.7
+faf2b0f7-2779-49e0-9d3e-3a8591bddf03,03/23/2023 01:58:02,paraná,38,cera automotiva,39.9,1516.2
+d85e36f3-764b-4037-a6e2-79a85dd4efae,02/25/2023 04:32:44,santa catarina,6,limpa-vidros automotivo,19.9,119.4
+c12d4bbb-44ea-4cf2-b660-a4ecca91d4fd,04/01/2023 16:00:23,santa catarina,90,limpa-tapetes automotivo,34.9,3141.0
+350a519a-132f-4dea-ab03-463f159b31db,02/22/2023 07:08:39,paraná,30,removedor de insetos,19.9,597.0
+bd8fbf34-aa64-483c-b6e8-094e7e30fe61,04/22/2023 15:55:16,rio grande do sul,5,limpa-estofados automotivo,49.9,249.5
+bdee8e29-6283-42c5-8c50-4d1a80a27ccc,02/25/2023 05:34:44,santa catarina,47,condicionador de couro automotivo,49.9,2345.3
+da28fd0a-95bb-4dbe-99ac-4dec0eedde37,02/21/2023 18:55:19,rio grande do sul,42,shampoo para carros,29.9,1255.8
+14207eb2-9c38-4944-9658-11c55360d417,04/21/2023 14:07:39,rio grande do sul,98,limpa-estofados automotivo,49.9,4890.2
+995e8761-8b08-4651-9c78-0a0cd721d025,04/28/2023 05:41:24,santa catarina,58,limpa-tapetes automotivo,34.9,2024.2
+70795921-5cf6-45fe-b192-3ddbf966b4f6,01/08/2023 19:41:19,rio grande do sul,82,condicionador de couro automotivo,49.9,4091.8
+b545b95f-4ffc-4b98-bb32-a8594edbd202,04/10/2023 22:37:50,santa catarina,85,removedor de insetos,19.9,1691.5
+35b46dec-7ab7-42da-b261-63cd12c44439,04/25/2023 02:31:36,paraná,83,limpa-rodas,24.9,2066.7
+3c38a119-b5d1-449a-94ec-ac8d9d18731f,01/16/2023 01:43:41,santa catarina,44,shampoo para carros,29.9,1315.6
+fa42237c-3d1e-4dfe-b59a-7855f72bbf1d,03/19/2023 22:33:36,paraná,71,condicionador de couro automotivo,49.9,3542.9
+4b2f179c-3ea1-4dd9-b0c0-ee53ee88f370,01/13/2023 14:53:11,paraná,38,limpa-vidros automotivo,19.9,756.2
+dd785fe8-e059-42cc-b5ad-14c3ceb3aa5e,04/16/2023 07:05:27,santa catarina,76,condicionador de couro automotivo,49.9,3792.4
+e6e19007-6ed4-4eff-ab57-bc0079822cea,04/21/2023 09:20:15,paraná,17,polidor de metais automotivo,39.9,678.3
+7aabf338-3cc0-4278-8f10-95f8c6bd42d1,01/09/2023 19:55:01,paraná,70,limpa-rodas,24.9,1743.0
+0b1cc9fc-89d8-4a50-855b-71ce85d987d3,02/01/2023 10:15:43,rio grande do sul,19,shampoo para carros,29.9,568.1
+dc33dcdc-e765-4733-b93c-051b6c6161c8,03/24/2023 14:04:13,paraná,19,shampoo para carros,29.9,568.1
+13569105-865a-435d-980c-fa4d28911a73,03/22/2023 05:30:46,paraná,63,shampoo para carros,29.9,1883.7
+8147a342-2c3d-4bc1-be43-c6c940adc4ca,01/07/2023 07:29:51,paraná,77,cera automotiva,39.9,3072.3
+1f911d30-3758-435d-a286-5393a145343b,01/18/2023 13:42:47,santa catarina,52,cera automotiva,39.9,2074.8
+5598d3ec-d289-4cc9-9223-5ab589a31cbc,02/16/2023 02:11:14,rio grande do sul,54,condicionador de couro automotivo,49.9,2694.6
+1d7723ef-6445-48b5-a9b3-9a2236013d0c,01/17/2023 21:12:54,rio grande do sul,25,limpa-estofados automotivo,49.9,1247.5
+b62bc4c4-e431-4fe5-b272-9eed829a88fc,04/11/2023 22:16:26,santa catarina,7,limpa-vidros automotivo,19.9,139.3
+f01fe6d1-8861-4192-b445-74d7322f1d10,03/16/2023 17:26:40,paraná,83,limpa-vidros automotivo,19.9,1651.7
+5f53d040-bc38-458b-ad30-7181feee4f8f,03/23/2023 06:55:53,paraná,56,desodorizador de ar automotivo,14.9,834.4
+669851ed-ed12-4224-a320-88c035c8488f,04/18/2023 12:16:52,paraná,79,limpa-estofados automotivo,49.9,3942.1
+137e93e7-2343-417e-b996-18d0ebef732d,04/17/2023 04:39:53,rio grande do sul,12,cera automotiva,39.9,478.8
+e364e282-378b-470f-886a-9ebeb63473c5,04/24/2023 06:52:34,santa catarina,87,desodorizador de ar automotivo,14.9,1296.3
+8e7227a4-e4cd-43a5-80ec-d040464364a4,03/08/2023 01:49:42,paraná,88,cera automotiva,39.9,3511.2
+02ac392c-3b30-4f16-ab0e-5fd11b0eb381,01/04/2023 12:40:39,paraná,22,shampoo para carros,29.9,657.8
+67efef07-c908-4d76-8235-ca2d61af7dd3,03/26/2023 05:58:44,rio grande do sul,31,polidor de metais automotivo,39.9,1236.9
+7250e435-84be-4294-b5ab-98a65156c803,03/16/2023 16:43:11,santa catarina,30,condicionador de couro automotivo,49.9,1497.0
+03cf0efb-a82b-4c06-a234-4335cfbc3690,01/17/2023 06:47:22,paraná,95,polidor de metais automotivo,39.9,3790.5
+668c65e3-55ba-4d11-a3ef-3acfc88abe7b,01/27/2023 21:59:24,rio grande do sul,16,cera automotiva,39.9,638.4
+be2320b4-cfe9-4029-8bcc-09f57b7e7911,02/14/2023 09:10:11,rio grande do sul,43,limpa-vidros automotivo,19.9,855.7
+f1d88f36-7a7d-4dda-be48-8b29da3cfc48,02/04/2023 22:19:54,rio grande do sul,32,limpa-vidros automotivo,19.9,636.8
+e3e368a6-ae4b-4632-a81e-1babcb54c6ac,01/22/2023 06:15:50,santa catarina,73,cera automotiva,39.9,2912.7
+dcce6e6e-3308-4c5c-97a7-172999ed4ba1,03/02/2023 03:03:20,santa catarina,29,limpa-vidros automotivo,19.9,577.1
+fdffc5e4-51a7-4629-be34-f515f691d50b,01/11/2023 03:35:27,rio grande do sul,73,cera automotiva,39.9,2912.7
+bb6881a4-bd28-42b1-a76b-b1a5cbb080f0,01/28/2023 03:22:34,santa catarina,81,limpa-tapetes automotivo,34.9,2826.9
+42b280f3-ac4f-4ab7-b28f-9f10e612a6d2,03/14/2023 08:22:54,rio grande do sul,52,desodorizador de ar automotivo,14.9,774.8
+0bbeb2b2-9339-4129-9a88-a5147078ef1f,01/17/2023 11:51:59,santa catarina,33,cera automotiva,39.9,1316.7
+a465142b-013e-40b7-abd6-f61554cc4d1f,03/29/2023 22:33:59,paraná,19,limpa-rodas,24.9,473.1
+cc844cba-8c08-425f-8ba6-4bffca4b4bc6,01/04/2023 00:26:39,santa catarina,70,condicionador de couro automotivo,49.9,3493.0
+29accefe-7f0f-4863-af50-4190328aa2b6,01/29/2023 12:56:33,santa catarina,7,limpa-estofados automotivo,49.9,349.3
+b55a21e9-7562-4c37-9771-13d1a7bcbb86,02/20/2023 06:36:46,santa catarina,39,polidor de metais automotivo,39.9,1556.1
+99be6d05-33a9-4fd0-8fe8-3d2954ea02a5,01/04/2023 10:05:25,paraná,87,limpa-tapetes automotivo,34.9,3036.3
+a74c97df-d719-4f8f-b811-6e0a2669a1dc,03/19/2023 19:00:19,santa catarina,73,limpa-estofados automotivo,49.9,3642.7
+56f3406e-602b-4232-85aa-8f3eab19444d,04/25/2023 16:55:13,paraná,83,polidor de metais automotivo,39.9,3311.7
+82454227-e855-40e6-80c0-c02ab41af2bd,02/08/2023 00:58:34,paraná,38,desodorizador de ar automotivo,14.9,566.2
+8a2677c1-78a7-4b3c-b3b8-ceaa1e780a8a,01/27/2023 17:32:52,paraná,4,limpa-rodas,24.9,99.6
+e7696fd4-3974-4417-88b5-4ad8060b6a01,02/18/2023 22:47:33,santa catarina,84,limpa-estofados automotivo,49.9,4191.6
+7cc5522c-d10c-4ce1-9220-f1798afcdb91,03/14/2023 17:28:11,rio grande do sul,90,shampoo para carros,29.9,2691.0
+93444030-90af-44d5-8d11-68d65b4afc4a,02/23/2023 14:47:12,santa catarina,91,limpa-vidros automotivo,19.9,1810.9
+a95bc2f2-a4c1-4c2f-b65b-17d7d21610c2,04/02/2023 17:10:40,rio grande do sul,100,polidor de metais automotivo,39.9,3990.0
+274162a4-50e2-4b03-bbd8-4c37152960d9,02/02/2023 10:54:13,santa catarina,49,shampoo para carros,29.9,1465.1
+f89ce3b6-ec61-4869-bf59-0e20a6458e63,03/06/2023 10:30:45,santa catarina,24,limpa-vidros automotivo,19.9,477.6
+64c0d651-10c2-4e7b-b039-70b9b338c0f3,01/30/2023 12:42:54,paraná,70,limpa-rodas,24.9,1743.0
+fb8063b1-e3af-47ae-aba2-64573d87d003,02/16/2023 20:22:53,rio grande do sul,57,limpa-rodas,24.9,1419.3
+9f3fb0f9-530e-4697-acf6-44e25344ece9,03/25/2023 05:10:05,rio grande do sul,78,desodorizador de ar automotivo,14.9,1162.2
+9e34354c-1131-4977-b714-50b25d464102,01/05/2023 11:57:50,paraná,5,desodorizador de ar automotivo,14.9,74.5
+b5621925-c1cd-4b86-9b26-558714e2a5c2,03/24/2023 13:17:47,santa catarina,26,limpa-estofados automotivo,49.9,1297.4
+db46fc03-f4df-4d9a-8e67-d4237bf853ed,03/27/2023 12:26:14,rio grande do sul,85,removedor de insetos,19.9,1691.5
+a09eee8e-b2c1-4393-a57e-ccb816a33c9b,02/21/2023 05:49:35,paraná,28,limpa-estofados automotivo,49.9,1397.2
+0098c201-021d-4c36-801e-6d34a4b31df9,03/07/2023 02:59:07,paraná,76,shampoo para carros,29.9,2272.4
+cf7ff15a-a2ce-4f3c-900e-945731d3e998,01/19/2023 13:39:48,rio grande do sul,54,limpa-rodas,24.9,1344.6
+7a3a6d69-bf84-472a-a376-f43e1eb69136,02/22/2023 13:56:30,paraná,86,removedor de insetos,19.9,1711.4
+c23d8646-7106-459f-b9b6-5ff7a63292db,02/05/2023 13:56:46,santa catarina,26,shampoo para carros,29.9,777.4
+a047d9d5-d354-40b2-8d56-7a3fa06e6035,01/10/2023 04:12:30,paraná,10,shampoo para carros,29.9,299.0
+bfe38f26-8fc9-44f4-8566-b3f727674548,02/25/2023 01:59:10,paraná,79,polidor de metais automotivo,39.9,3152.1
+1c9c187d-b782-48ab-9c12-4887e031ebed,02/14/2023 05:04:48,santa catarina,73,limpa-rodas,24.9,1817.7
+836c5d26-41ab-4054-9666-3900f9c64c32,01/01/2023 15:57:20,paraná,31,removedor de insetos,19.9,616.9
+7eb0f0a2-920a-4598-b7d5-eebcd908149e,04/01/2023 22:33:41,paraná,32,shampoo para carros,29.9,956.8
+f51c4650-8b9b-490a-bd5d-d30f8e336c26,01/21/2023 18:32:10,rio grande do sul,23,desodorizador de ar automotivo,14.9,342.7
+3adf68ce-4015-43a9-8c5d-88db77dc027a,01/27/2023 02:30:22,santa catarina,65,shampoo para carros,29.9,1943.5
+b6668ed9-7f48-4bc9-b7ac-0de7911aac8b,01/11/2023 06:20:17,rio grande do sul,58,polidor de metais automotivo,39.9,2314.2
+67c93fff-cea1-493e-bc1e-ee55485d413b,02/08/2023 03:28:26,paraná,53,limpa-estofados automotivo,49.9,2644.7
+bdff74ff-55c2-497d-81d1-abbc552ee6d6,01/12/2023 22:27:08,paraná,27,limpa-rodas,24.9,672.3
+7bbc0f3e-003c-44c6-99e9-c3c8e4887544,02/20/2023 19:44:46,rio grande do sul,29,limpa-vidros automotivo,19.9,577.1
+447704bb-db09-461d-9932-fdae7244d79c,02/05/2023 09:59:23,paraná,86,shampoo para carros,29.9,2571.4
+8f940980-3237-4587-b87c-7d213482034e,01/01/2023 20:20:38,rio grande do sul,32,condicionador de couro automotivo,49.9,1596.8
+79092f7d-7c11-40ed-b60d-a1a2d3b07fae,01/17/2023 06:18:16,rio grande do sul,34,limpa-tapetes automotivo,34.9,1186.6
+67e5deda-8877-4e0d-972f-531ed22b0ea5,04/10/2023 14:51:25,paraná,56,limpa-tapetes automotivo,34.9,1954.4
+dc473d03-73fc-4f5e-bce6-c60d5be88263,04/07/2023 15:25:59,santa catarina,52,removedor de insetos,19.9,1034.8
+3faafd2f-d30a-4fa2-8996-6fe5c5f169a4,01/08/2023 23:56:00,rio grande do sul,45,condicionador de couro automotivo,49.9,2245.5
+c01264a4-cf7f-4507-8db6-14f6d4f5e81c,04/10/2023 21:33:08,rio grande do sul,22,limpa-rodas,24.9,547.8
+22a84098-fe37-488d-8f42-f43ee232cfe7,03/03/2023 07:57:09,santa catarina,8,shampoo para carros,29.9,239.2
+df66ad26-d1a1-4ef8-b272-d5b61f2453c9,01/08/2023 20:31:28,paraná,47,limpa-estofados automotivo,49.9,2345.3
+aacd82d0-609f-4c69-956b-4411d1cdc38e,01/26/2023 20:46:04,santa catarina,70,limpa-estofados automotivo,49.9,3493.0
+978edaad-6b59-4aa2-9a7f-0ff8f4665074,04/23/2023 16:51:29,paraná,7,polidor de metais automotivo,39.9,279.3
+c460cfdd-8aeb-46c4-b46c-30ccb4f20798,03/09/2023 12:21:28,santa catarina,35,shampoo para carros,29.9,1046.5
+411ec807-e0e1-4f57-9f4b-114ac8da0593,03/09/2023 07:25:24,rio grande do sul,8,shampoo para carros,29.9,239.2
+e423001e-22d4-47c8-a8f9-a55ac8c9cf00,04/23/2023 04:11:40,santa catarina,3,shampoo para carros,29.9,89.7
+58820582-a3e1-48c5-884c-bd49a318b944,01/22/2023 20:35:17,rio grande do sul,35,limpa-vidros automotivo,19.9,696.5
+91375116-c97d-445e-8311-5363fc6a57ff,01/09/2023 19:51:51,paraná,94,desodorizador de ar automotivo,14.9,1400.6
+1d3c91e8-a224-472d-ae40-3442e1a32bb3,01/27/2023 09:42:24,paraná,35,limpa-vidros automotivo,19.9,696.5
+e564ff95-f87c-4926-b34d-1ba71dc5aa79,01/29/2023 10:52:41,paraná,37,condicionador de couro automotivo,49.9,1846.3
+58097bf2-7b0a-4f56-bf15-33624c91b01b,01/06/2023 00:54:41,rio grande do sul,84,removedor de insetos,19.9,1671.6
+dd00f53b-b545-449e-a630-d5e3b99923a4,01/30/2023 21:20:27,paraná,64,desodorizador de ar automotivo,14.9,953.6
+3389a316-f031-4e6d-a33e-1a7c00f30944,04/02/2023 07:36:06,santa catarina,99,limpa-estofados automotivo,49.9,4940.1
+6a610947-27ee-45e6-8b02-9b163fc4d0dd,01/01/2023 13:34:53,paraná,21,limpa-tapetes automotivo,34.9,732.9
+7338612b-338d-46dc-a3e1-819c1ce9e695,02/12/2023 09:56:21,paraná,3,shampoo para carros,29.9,89.7
+d6fb5133-07da-472f-9eea-cf433120bf15,02/13/2023 04:26:12,rio grande do sul,21,limpa-tapetes automotivo,34.9,732.9
+4c067907-389a-4f64-9526-91494b971979,01/10/2023 23:21:56,santa catarina,90,removedor de insetos,19.9,1791.0
+d4d84e4f-3d88-4d59-9f51-7bb77aa2424f,01/23/2023 18:54:22,paraná,15,limpa-tapetes automotivo,34.9,523.5
+2630529f-9436-4360-a32f-3c7640bd54ec,03/26/2023 19:35:13,rio grande do sul,95,removedor de insetos,19.9,1890.5
+196e8abc-488a-4006-a8ea-99d35a8554bc,01/09/2023 14:53:26,rio grande do sul,26,limpa-estofados automotivo,49.9,1297.4
+8af5627f-ffa5-491d-9a6c-ff3cd71dbeab,02/17/2023 18:59:05,paraná,1,limpa-estofados automotivo,49.9,49.9
+7df9ab0d-2046-47d3-8a23-f52353b46bb1,02/25/2023 13:30:22,rio grande do sul,82,limpa-estofados automotivo,49.9,4091.8
+f8b1242e-a847-4a34-91b3-be220d68a76c,01/04/2023 07:04:50,paraná,16,limpa-tapetes automotivo,34.9,558.4
+28b4db8c-ae38-4128-98d0-48066b194cc5,03/29/2023 14:03:16,rio grande do sul,57,cera automotiva,39.9,2274.3
+fb1e5bd4-1590-4ed5-9c84-e57800e49511,02/04/2023 08:18:56,santa catarina,55,removedor de insetos,19.9,1094.5
+6e3188b8-4c36-4fea-9426-82d7bd5dffd7,02/02/2023 05:12:02,santa catarina,38,cera automotiva,39.9,1516.2
+fad80223-0443-4121-8485-20ce4ea033a4,03/17/2023 12:06:15,santa catarina,69,limpa-estofados automotivo,49.9,3443.1
+b6e81d67-85b7-4565-888a-cfcd8d6b1b22,02/13/2023 16:56:04,rio grande do sul,91,limpa-estofados automotivo,49.9,4540.9
+6346e89b-1cd8-4af4-bde5-9e408a9c309b,01/29/2023 02:14:57,santa catarina,69,removedor de insetos,19.9,1373.1
+2170e84c-cb88-4b6b-9a9b-64ae89bee24c,04/20/2023 04:46:09,rio grande do sul,1,desodorizador de ar automotivo,14.9,14.9
+e22ec3ad-e2b2-4171-b529-eb6b4a2feed1,02/08/2023 22:04:53,paraná,96,shampoo para carros,29.9,2870.4
+16f3729a-4d31-47ca-8ccc-30ce200b88fc,04/14/2023 12:30:23,rio grande do sul,47,limpa-tapetes automotivo,34.9,1640.3
+56569fb6-35bd-4917-b159-962f8e21c639,02/11/2023 08:38:20,rio grande do sul,87,shampoo para carros,29.9,2601.3
+d00e32b2-a185-491f-8edb-9e1d7205fe65,03/16/2023 12:55:26,rio grande do sul,37,limpa-vidros automotivo,19.9,736.3
+b98ed378-cdbc-4493-ac73-5db56f2a305a,01/28/2023 05:05:20,santa catarina,9,limpa-estofados automotivo,49.9,449.1
+7025e0ea-625c-4dca-aa9b-40f36ffbfa09,04/26/2023 03:42:42,rio grande do sul,26,limpa-tapetes automotivo,34.9,907.4
+8ea08e8a-6cab-4bfe-ba75-ef239389a188,02/10/2023 16:49:14,santa catarina,63,limpa-vidros automotivo,19.9,1253.7
+6e5ee131-89ce-4ced-979c-1d9fd3a2fc8e,02/28/2023 16:24:00,santa catarina,34,limpa-tapetes automotivo,34.9,1186.6
+992bd7a6-ce21-4ed0-bd7c-94f726ea7d76,02/01/2023 21:41:41,rio grande do sul,30,shampoo para carros,29.9,897.0
+61e84b81-fd5e-4717-91c6-3ade1e532e16,01/14/2023 21:54:54,santa catarina,78,shampoo para carros,29.9,2332.2
+29839031-6471-4e50-8600-5548f6e879e3,01/30/2023 04:14:27,rio grande do sul,38,removedor de insetos,19.9,756.2
+e3cf41b4-c3f9-42a0-a2a9-f11a495075f8,01/23/2023 19:06:49,santa catarina,68,polidor de metais automotivo,39.9,2713.2
+0553102e-e558-407b-82ba-ef5710176dc6,01/19/2023 06:46:13,paraná,59,condicionador de couro automotivo,49.9,2944.1
+54fc9152-2fd3-455d-8a4d-c9c7da9e3811,04/27/2023 08:57:51,paraná,18,condicionador de couro automotivo,49.9,898.2
+71de2aec-22f7-4e91-9cff-0346c1416728,04/28/2023 16:53:49,santa catarina,53,polidor de metais automotivo,39.9,2114.7
+b69a9e72-1029-424a-90fb-9249682b3098,04/21/2023 01:07:55,santa catarina,14,limpa-estofados automotivo,49.9,698.6
+e72f8926-1e57-4f04-a238-f5bddacebc87,04/06/2023 10:34:55,rio grande do sul,45,limpa-estofados automotivo,49.9,2245.5
+1a9def86-c9a2-48ce-ba3e-b04cf72f263e,04/01/2023 14:43:36,paraná,45,limpa-estofados automotivo,49.9,2245.5
+c35daf0b-d89a-4e89-bff1-b689cd681402,01/31/2023 13:36:48,rio grande do sul,3,limpa-tapetes automotivo,34.9,104.7
+7e4c0e84-fdb8-4f53-a9ce-9e368cd7b8d8,03/12/2023 10:17:23,santa catarina,42,removedor de insetos,19.9,835.8
+008a75d1-d5b7-43f0-b687-3523055b6cd7,01/04/2023 16:16:11,rio grande do sul,36,polidor de metais automotivo,39.9,1436.4
+f621a65c-cc29-4548-b046-6a4531320a67,03/21/2023 04:11:29,santa catarina,6,shampoo para carros,29.9,179.4
+6f18c480-148f-428d-93f6-dd2cd7fc1760,02/02/2023 15:40:00,rio grande do sul,81,limpa-estofados automotivo,49.9,4041.9
+b4f878e0-601f-484d-9fcf-4f9c385ea56a,03/01/2023 06:00:13,santa catarina,59,cera automotiva,39.9,2354.1
+a3742591-7d61-4e2e-8c8b-4efe7b2f1518,03/28/2023 14:52:41,rio grande do sul,19,shampoo para carros,29.9,568.1
+f1a77e94-83cd-4e0e-9d31-825ad09192c9,01/31/2023 09:41:27,santa catarina,12,shampoo para carros,29.9,358.8
+8e11ba33-2c64-478b-bafc-09f9aff7adf3,02/03/2023 00:23:54,paraná,64,limpa-tapetes automotivo,34.9,2233.6
+0b3a00d0-790a-44e3-8e94-598beab69e2c,04/27/2023 23:42:23,paraná,43,limpa-tapetes automotivo,34.9,1500.7
+185fd1b2-ae86-401f-b2f4-b3dd1dedac29,02/09/2023 21:23:53,santa catarina,53,polidor de metais automotivo,39.9,2114.7
+48644497-7ec1-4930-8da9-d3c81f2396ec,03/20/2023 20:16:52,paraná,63,condicionador de couro automotivo,49.9,3143.7
+8a46265c-f5e0-4e3a-8954-68fb16113775,01/04/2023 01:11:42,santa catarina,67,shampoo para carros,29.9,2003.3
+59432201-f5cc-49d1-a02a-f3717e66a0a4,04/05/2023 01:37:10,paraná,78,limpa-rodas,24.9,1942.2
+5e548abb-715d-4a2a-95d7-20893dbba20e,01/21/2023 02:18:23,paraná,31,desodorizador de ar automotivo,14.9,461.9
+362935be-c532-4bd5-8d60-19850cacf01c,03/16/2023 01:42:46,paraná,22,condicionador de couro automotivo,49.9,1097.8
+4dc6a92a-d392-4ce7-b117-33275373cee2,04/23/2023 02:35:52,santa catarina,74,condicionador de couro automotivo,49.9,3692.6
+7bed0769-ca34-4850-94fd-76ecd396fa23,03/02/2023 06:18:36,santa catarina,7,limpa-rodas,24.9,174.3
+874523d7-3285-4ac3-8d3a-ffa3a74c97c6,03/02/2023 07:44:14,paraná,70,cera automotiva,39.9,2793.0
+cee68442-8604-4c0f-8658-dcfe8ff8fca0,02/06/2023 08:47:26,rio grande do sul,79,cera automotiva,39.9,3152.1
+70f8a506-cf6f-469d-9fd5-ebc2ecd05772,03/29/2023 11:39:33,santa catarina,73,limpa-tapetes automotivo,34.9,2547.7
+02031a3e-5939-433e-85d3-0f330e34bf97,01/21/2023 01:05:08,santa catarina,74,cera automotiva,39.9,2952.6
+4421a77b-1636-4423-84c6-479a5ac310cd,03/06/2023 07:47:55,rio grande do sul,15,limpa-rodas,24.9,373.5
+b85482c9-5fad-4682-9db0-1dd4eaef049c,01/24/2023 23:34:56,rio grande do sul,32,cera automotiva,39.9,1276.8
+c6b7f441-804c-4d53-a58c-f38e768ac602,02/15/2023 05:21:49,rio grande do sul,32,removedor de insetos,19.9,636.8
+c2fc1bfb-676c-4387-b3c9-e8b48d92bec0,03/22/2023 07:24:16,rio grande do sul,27,desodorizador de ar automotivo,14.9,402.3
+05a42764-411f-4743-8b9b-129ecde1138a,04/08/2023 04:25:52,paraná,54,limpa-vidros automotivo,19.9,1074.6
+deb73a6a-dd9e-43cb-b048-977c0b66ea59,03/06/2023 05:34:43,santa catarina,69,condicionador de couro automotivo,49.9,3443.1
+6fe29d8f-3ead-47bd-80f2-1d51ca685fed,04/29/2023 03:13:22,paraná,36,cera automotiva,39.9,1436.4
+475e2b38-00cf-42e6-824f-d540424845dc,03/18/2023 14:58:29,paraná,65,limpa-estofados automotivo,49.9,3243.5
+505fa576-0f99-442d-93e1-dc889e812960,02/01/2023 18:48:58,rio grande do sul,58,removedor de insetos,19.9,1154.2
+a792c584-a3bb-4259-a1cf-6b8b274a3f9f,03/09/2023 07:00:13,paraná,72,limpa-vidros automotivo,19.9,1432.8
+1f0c8af7-9160-4c67-8e9b-822d79ba2ec1,04/21/2023 15:16:21,santa catarina,40,limpa-estofados automotivo,49.9,1996.0
+3459c514-5bc8-47e1-8f28-581ada84a634,02/09/2023 15:30:39,santa catarina,22,shampoo para carros,29.9,657.8
+ecfd7007-abbc-46f5-a2b5-f47719540a39,02/03/2023 17:21:41,santa catarina,48,polidor de metais automotivo,39.9,1915.2
+b86f7f52-78ab-4df8-abc1-1cb5ca5a0a27,04/06/2023 19:01:52,paraná,65,removedor de insetos,19.9,1293.5
+5f21649a-1695-4bc0-ac5d-eea75dd5676b,01/01/2023 18:08:46,rio grande do sul,47,limpa-rodas,24.9,1170.3
+2fe7ab7e-69d1-4962-a392-2f53082613ae,01/21/2023 18:34:42,santa catarina,3,limpa-estofados automotivo,49.9,149.7
+d99a464b-6f6a-49e5-9de6-22f752514bc7,02/19/2023 09:50:15,paraná,59,removedor de insetos,19.9,1174.1
+efcc21df-0bd6-4c80-bcca-796368a2b597,04/03/2023 23:29:34,santa catarina,63,shampoo para carros,29.9,1883.7
+dc527f1f-c35a-44d4-a8e8-95a4cf27f887,01/12/2023 15:50:36,paraná,96,limpa-estofados automotivo,49.9,4790.4
+0c5a0005-50ea-4283-b757-9159d227b02f,01/20/2023 19:42:48,paraná,38,limpa-rodas,24.9,946.2
+7fff9aa6-309b-48c5-aa27-d7f2a5ee4568,03/06/2023 14:53:26,paraná,58,removedor de insetos,19.9,1154.2
+d44936b4-6351-48c6-9fcd-b398e7381ea9,04/05/2023 14:12:36,rio grande do sul,66,removedor de insetos,19.9,1313.4
+6ee6160c-363d-4703-8126-f066c38a211c,02/01/2023 16:27:32,rio grande do sul,29,removedor de insetos,19.9,577.1
+be35c5ff-c19c-4492-b787-f18ecbda3270,02/20/2023 17:30:55,rio grande do sul,13,limpa-estofados automotivo,49.9,648.7
+a5a815e8-3def-40af-bb32-d6c520d507fb,03/19/2023 10:17:24,rio grande do sul,73,limpa-rodas,24.9,1817.7
+d3629b7c-cf95-4f1c-a106-c69e8571fd7a,03/08/2023 08:01:46,paraná,54,desodorizador de ar automotivo,14.9,804.6
+25158387-f342-4e06-8f94-a528762132d3,04/18/2023 11:24:42,santa catarina,91,condicionador de couro automotivo,49.9,4540.9
+0206e374-c261-4a35-b918-d47aac7bdde4,02/13/2023 22:19:06,rio grande do sul,67,polidor de metais automotivo,39.9,2673.3
+5a1e4f6f-9d61-4b58-8018-874a1ec21764,03/27/2023 01:18:46,paraná,78,shampoo para carros,29.9,2332.2
+370542cf-d532-4cd0-96b2-17eeb4fd7c4c,04/04/2023 11:39:40,santa catarina,58,removedor de insetos,19.9,1154.2
+830b7fbd-180c-43bd-863f-1bf99f247a2b,04/19/2023 01:38:29,paraná,82,polidor de metais automotivo,39.9,3271.8
+adf51563-b4b3-4524-bc60-cd3ef505ca29,02/22/2023 23:31:42,rio grande do sul,66,limpa-rodas,24.9,1643.4
+302be0f8-8664-4c19-872e-9d729ac85879,04/27/2023 21:35:27,paraná,6,cera automotiva,39.9,239.4
+f9e147ae-15b9-4db2-8498-d8076f46af36,04/15/2023 18:10:17,rio grande do sul,72,shampoo para carros,29.9,2152.8
+4ff318de-3bf2-4f77-b50d-ca07ff1fdcbd,01/17/2023 17:28:07,santa catarina,85,limpa-rodas,24.9,2116.5
+c0108bf7-2859-4439-8eb9-bbb0a0a0f8db,01/19/2023 14:30:44,rio grande do sul,17,cera automotiva,39.9,678.3
+812f5404-fd58-4ad8-b6dd-f205c3100eff,02/03/2023 16:40:02,paraná,58,removedor de insetos,19.9,1154.2
+ba46be84-0f76-45ee-8690-b109f5f1419a,03/16/2023 15:26:10,paraná,76,polidor de metais automotivo,39.9,3032.4
+0e2f0328-5afb-476a-b461-fe1c2dd95eb6,02/21/2023 02:33:17,santa catarina,34,polidor de metais automotivo,39.9,1356.6
+364b3322-e4c8-4f9d-9802-55b0f83ac926,02/24/2023 11:43:03,paraná,85,removedor de insetos,19.9,1691.5
+964990d3-d745-4fed-a6e9-70484046c442,01/01/2023 14:15:48,paraná,51,removedor de insetos,19.9,1014.9
+b89fbaa1-efb2-46fe-aeb2-8c8075b62d89,01/26/2023 23:05:40,rio grande do sul,39,limpa-estofados automotivo,49.9,1946.1
+d0e9f2ec-e5a6-483a-8098-3e44f05b5918,04/12/2023 15:08:02,santa catarina,28,limpa-vidros automotivo,19.9,557.2
+3d2a74b1-4a40-4f7d-a059-319069bbc3af,02/25/2023 03:15:36,rio grande do sul,31,polidor de metais automotivo,39.9,1236.9
+78f98265-2f41-4f93-ae92-a7eb14c73778,01/04/2023 10:38:10,rio grande do sul,5,desodorizador de ar automotivo,14.9,74.5
+469d368e-4639-43f4-af22-111aa57855c0,03/20/2023 04:40:56,paraná,61,shampoo para carros,29.9,1823.9
+176fa56d-1b78-4ca3-a71a-894566075121,01/14/2023 20:24:12,rio grande do sul,72,shampoo para carros,29.9,2152.8
+6becfee3-c492-46f9-97b1-0f816f74fc65,02/01/2023 05:50:33,paraná,83,removedor de insetos,19.9,1651.7
+1dcd7b0a-e6de-4432-bc13-415cc228e916,01/11/2023 19:26:44,rio grande do sul,17,desodorizador de ar automotivo,14.9,253.3
+a665886f-8aff-4bfe-94e6-4c9c6f739b06,01/17/2023 19:24:08,rio grande do sul,97,condicionador de couro automotivo,49.9,4840.3
+9443e723-995a-46f5-b28e-a20a3f778cf1,02/06/2023 17:05:54,rio grande do sul,78,desodorizador de ar automotivo,14.9,1162.2
+00a90286-5ee6-4bed-b63f-b80256474341,03/17/2023 11:49:20,rio grande do sul,96,limpa-vidros automotivo,19.9,1910.4
+c865fb8a-6095-41f9-bc4d-f590b9cfd1fc,03/27/2023 04:28:02,santa catarina,17,cera automotiva,39.9,678.3
+e7905b51-0ebc-49e0-998e-46ce130b6031,04/06/2023 15:07:49,rio grande do sul,21,condicionador de couro automotivo,49.9,1047.9
+fd87d74b-a7e4-49f0-a32e-ff10c0c09c97,01/20/2023 02:47:33,rio grande do sul,95,condicionador de couro automotivo,49.9,4740.5
+0f52ec55-9835-4089-9ab0-48bf6d528282,03/07/2023 14:58:08,rio grande do sul,83,limpa-estofados automotivo,49.9,4141.7
+571a443b-e11b-4827-a534-2065d2ddff12,01/13/2023 05:53:53,rio grande do sul,94,limpa-rodas,24.9,2340.6
+00a0ef91-3a0f-40b1-8b10-2ee309ee132d,03/18/2023 22:29:34,rio grande do sul,23,limpa-rodas,24.9,572.7
+b0e887b8-db4b-4d16-8857-fae5e5f2a1bd,03/18/2023 15:45:19,santa catarina,20,cera automotiva,39.9,798.0
+395cffd4-5ba6-4745-9ba9-f732a3ca2f3a,01/31/2023 09:44:26,rio grande do sul,39,removedor de insetos,19.9,776.1
+5fe50eb8-06eb-4516-b51f-31f0b4871908,01/24/2023 14:50:34,santa catarina,13,cera automotiva,39.9,518.7
+a01e992e-e13a-4547-a319-22ce137c8255,01/08/2023 16:44:50,rio grande do sul,72,removedor de insetos,19.9,1432.8
+3789875d-a2a7-4ebe-b562-d8ace3cfa363,03/02/2023 03:48:39,rio grande do sul,70,limpa-rodas,24.9,1743.0
+f8dd40f1-936d-4144-9790-c203bf7cc5ce,02/22/2023 18:43:35,paraná,66,removedor de insetos,19.9,1313.4
+17e67baf-1838-4d49-b2dd-b480f7354b3c,02/25/2023 21:39:34,rio grande do sul,24,limpa-vidros automotivo,19.9,477.6
+6db99c7b-2606-454b-90f6-036d358dee73,01/09/2023 15:03:21,rio grande do sul,50,removedor de insetos,19.9,995.0
+57115a50-3e80-49df-9eed-da6eed126e06,02/12/2023 16:12:54,santa catarina,58,removedor de insetos,19.9,1154.2
+9b64dd73-0a4f-432a-815e-f1edbc743756,02/18/2023 18:35:40,paraná,39,shampoo para carros,29.9,1166.1
+eb484da3-a46f-4b6c-80b1-3a692c81ef3c,02/16/2023 10:47:06,rio grande do sul,62,removedor de insetos,19.9,1233.8
+0a836df2-1938-4515-b010-c916e3189dc9,03/10/2023 22:06:04,rio grande do sul,48,shampoo para carros,29.9,1435.2
+4a6a6cc4-0b7b-4601-9f85-57f187d4b607,01/24/2023 23:35:44,santa catarina,93,limpa-vidros automotivo,19.9,1850.7
+f1922c05-3486-49e4-ae6e-0f268b622fc8,01/20/2023 11:24:21,rio grande do sul,26,limpa-rodas,24.9,647.4
+2ab4c13f-4a04-4252-b45c-3c5244ce9ec5,03/17/2023 12:20:01,santa catarina,99,condicionador de couro automotivo,49.9,4940.1
+ca507f3b-5d66-4dbc-b533-bd94559d6398,03/11/2023 09:50:17,rio grande do sul,52,removedor de insetos,19.9,1034.8
+ae2dbc6a-8b2d-44a9-af3f-f23563df8961,03/08/2023 20:21:02,santa catarina,36,cera automotiva,39.9,1436.4
+6648b0d8-e026-458e-8f6c-3489f433afbe,03/05/2023 13:19:19,santa catarina,60,limpa-tapetes automotivo,34.9,2094.0
+75a3e183-ad8a-497f-a857-0524fbcdac33,02/26/2023 15:52:28,paraná,93,limpa-rodas,24.9,2315.7
+f4fdcc66-5bb6-4e95-a4c6-8002d757d813,02/14/2023 20:46:24,santa catarina,28,limpa-vidros automotivo,19.9,557.2
+161162d9-8dbb-4d63-97ea-fa8674ffb6f9,01/06/2023 02:18:57,paraná,90,polidor de metais automotivo,39.9,3591.0
+e37ef667-c290-4837-bed2-14e988e878db,01/07/2023 10:30:13,paraná,20,limpa-tapetes automotivo,34.9,698.0
+9e97d16c-7d0e-44c1-ba35-5775a699fc41,04/22/2023 03:54:33,rio grande do sul,100,removedor de insetos,19.9,1990.0
+bffe38e7-6dd2-40b0-94c6-9714ebe52cd2,01/25/2023 09:29:45,santa catarina,20,limpa-tapetes automotivo,34.9,698.0
+de897588-0d6c-4db2-bd76-b5f3917753c6,01/29/2023 08:11:18,santa catarina,84,cera automotiva,39.9,3351.6
+cf764eab-733f-4dda-ab03-863cd3cdcfd3,04/25/2023 21:17:14,paraná,26,limpa-tapetes automotivo,34.9,907.4
+906b7649-1743-4771-b836-8cecac2757e2,04/23/2023 02:34:52,rio grande do sul,38,limpa-vidros automotivo,19.9,756.2
+c0a6d010-757e-4050-8833-7806e9737b0f,03/20/2023 01:52:58,rio grande do sul,44,limpa-estofados automotivo,49.9,2195.6
+0b82558b-05e1-4527-ad8d-39681b4163f1,01/19/2023 22:45:37,paraná,69,limpa-estofados automotivo,49.9,3443.1
+845c0e63-32d9-49bf-a11a-f5833a3cadc0,01/15/2023 00:12:10,rio grande do sul,94,desodorizador de ar automotivo,14.9,1400.6
+1caf915e-d974-49df-a0d2-311e5e9028c7,02/14/2023 01:33:58,santa catarina,29,polidor de metais automotivo,39.9,1157.1
+707e374e-dea6-451b-9b6d-696efa421d84,01/23/2023 20:00:19,paraná,61,limpa-rodas,24.9,1518.9
+5e4dc35a-336e-4c88-a927-e86a1c97cfb9,04/21/2023 10:31:12,paraná,89,shampoo para carros,29.9,2661.1
+ce132978-92a0-48d8-a25d-197cb70e1e3e,01/31/2023 07:58:25,santa catarina,27,limpa-vidros automotivo,19.9,537.3
+d6fa319b-3320-483a-a659-399b9b9f2736,03/23/2023 20:47:51,santa catarina,44,limpa-estofados automotivo,49.9,2195.6
+00418c51-345c-4d88-b8a1-ad8be95e330e,03/22/2023 03:08:09,santa catarina,96,limpa-estofados automotivo,49.9,4790.4
+56bb1b79-737c-400e-9247-5726f5ed06ed,01/31/2023 16:46:45,paraná,78,shampoo para carros,29.9,2332.2
+42e5b92c-6ae4-48e6-8cda-870f70acf584,01/24/2023 17:43:02,paraná,1,removedor de insetos,19.9,19.9
+c727bd2e-0fb9-4f34-bf08-eceda8a41842,01/08/2023 03:03:07,santa catarina,21,desodorizador de ar automotivo,14.9,312.9
+a01e66e1-53fe-457e-bdd7-8dba9b49d864,02/15/2023 02:24:20,rio grande do sul,30,limpa-rodas,24.9,747.0
+9224af5b-3bf3-4db6-b69f-59f3f37fe185,03/17/2023 11:45:12,paraná,47,desodorizador de ar automotivo,14.9,700.3
+f91bd644-160c-4e62-b055-bb65fd72a72a,04/14/2023 23:08:46,paraná,86,cera automotiva,39.9,3431.4
+131bbcbb-c394-48ea-a286-2726f3bca654,03/20/2023 23:59:50,santa catarina,99,limpa-vidros automotivo,19.9,1970.1
+9ca73b84-2f5a-48bd-8657-78d79a60111d,01/11/2023 00:00:55,rio grande do sul,58,limpa-vidros automotivo,19.9,1154.2
+887c1acc-4181-4f66-af14-99513386d3e4,02/20/2023 11:51:35,paraná,86,limpa-vidros automotivo,19.9,1711.4
+b60737e8-6df8-449a-8bf8-7077d9f15fe0,02/04/2023 04:10:15,rio grande do sul,94,condicionador de couro automotivo,49.9,4690.6
+efd85eff-f787-43f3-8943-c246802699f4,01/25/2023 15:42:23,rio grande do sul,53,removedor de insetos,19.9,1054.7
+9878dc87-f34c-41a5-b8a0-2efc309eadfa,01/31/2023 13:52:43,paraná,12,limpa-vidros automotivo,19.9,238.8
+e87ca29e-bd47-4065-a054-bc275f31bcde,02/10/2023 03:11:48,paraná,9,cera automotiva,39.9,359.1
+558b4ce3-a4e1-47dc-b052-184f74c1b0a4,02/15/2023 00:35:38,paraná,17,desodorizador de ar automotivo,14.9,253.3
+df5f16a2-b6c9-4b33-acc4-502037c97e2c,04/24/2023 18:15:40,rio grande do sul,67,desodorizador de ar automotivo,14.9,998.3
+a6a14c15-53ac-401f-985f-4214fd174b39,04/02/2023 11:03:05,rio grande do sul,99,polidor de metais automotivo,39.9,3950.1
+b2d094cc-e9b7-4454-a90d-30c6d66270e0,01/09/2023 12:43:33,paraná,93,cera automotiva,39.9,3710.7
+ed21b021-1e00-4a83-a083-5946fc0bec6d,01/21/2023 08:52:14,santa catarina,5,limpa-vidros automotivo,19.9,99.5
+fd3cc841-d732-4b09-a8bb-07806ffb182e,03/18/2023 07:51:31,santa catarina,29,removedor de insetos,19.9,577.1
+a08e9a26-d829-4e1d-970a-808bb5a14eb4,02/14/2023 22:55:02,rio grande do sul,23,cera automotiva,39.9,917.7
+2740ea72-3fc1-4092-b9b5-329a211f747b,04/10/2023 11:47:21,paraná,69,limpa-estofados automotivo,49.9,3443.1
+644f3fe5-bc19-459c-9dae-dd3a49992e3d,02/13/2023 13:50:37,santa catarina,40,desodorizador de ar automotivo,14.9,596.0
+fb2efd1a-4e8b-4e21-b20b-ebf44c00af53,04/25/2023 14:10:40,paraná,28,limpa-rodas,24.9,697.2
+a511529e-d6cd-46ba-b88f-37e3eb3659a0,01/31/2023 19:31:28,rio grande do sul,14,cera automotiva,39.9,558.6
+029b44f6-342c-401e-92ca-700992f4a07c,03/24/2023 08:42:29,paraná,77,cera automotiva,39.9,3072.3
+2252b304-069a-4912-b601-ffa2817e0258,03/24/2023 20:09:49,rio grande do sul,2,condicionador de couro automotivo,49.9,99.8
+dfb2e230-f6e4-4f67-a87a-bca42cf468dd,02/24/2023 04:15:54,santa catarina,9,limpa-rodas,24.9,224.1
+fea48b2c-8b52-4c10-a484-cac1d1d0aaa1,03/29/2023 16:44:58,paraná,55,desodorizador de ar automotivo,14.9,819.5
+a18642ad-59b2-4d95-9fc0-cbadf51fdea5,02/05/2023 03:33:41,santa catarina,91,condicionador de couro automotivo,49.9,4540.9
+31bf8d56-6afa-4243-a609-9212a974f66e,04/08/2023 20:59:35,santa catarina,70,desodorizador de ar automotivo,14.9,1043.0
+fcf84832-258a-47aa-bc15-8e758738ca99,03/03/2023 19:26:13,rio grande do sul,94,limpa-vidros automotivo,19.9,1870.6
+74721bb4-212a-4d42-a1b0-7ac3f02e2a46,04/28/2023 09:30:26,santa catarina,19,removedor de insetos,19.9,378.1
+2f17e8ce-af2c-4756-aee2-3b81374114be,02/11/2023 10:45:51,santa catarina,80,removedor de insetos,19.9,1592.0
+eeaa39d8-b376-4b51-998d-cdfc93c555db,02/22/2023 06:20:32,rio grande do sul,58,limpa-tapetes automotivo,34.9,2024.2
+2f16c012-323e-4b17-9bd4-4c2804f73a0e,04/25/2023 02:57:21,rio grande do sul,62,cera automotiva,39.9,2473.8
+d39bb1ba-496c-459c-aee4-1de71c24703b,02/01/2023 22:09:09,rio grande do sul,60,desodorizador de ar automotivo,14.9,894.0
+170222a8-e216-4a02-ab18-3bec7adb644c,02/24/2023 16:07:24,rio grande do sul,99,condicionador de couro automotivo,49.9,4940.1
+2dc452a5-ee74-47f0-81f5-032153433d8f,03/03/2023 11:23:16,rio grande do sul,39,shampoo para carros,29.9,1166.1
+830f8341-4f10-405d-966a-e4b06880ceae,03/15/2023 13:43:53,santa catarina,90,polidor de metais automotivo,39.9,3591.0
+a4b7da16-9cbd-435e-bcce-d713c2edfd82,04/22/2023 08:29:09,paraná,34,shampoo para carros,29.9,1016.6
+c559d251-762a-44f1-a859-2c5941b1da10,04/15/2023 04:18:44,rio grande do sul,53,polidor de metais automotivo,39.9,2114.7
+2cee34b7-e94a-4952-a99c-96b29ef2b170,03/03/2023 06:55:45,santa catarina,50,desodorizador de ar automotivo,14.9,745.0
+10107d65-05dc-40aa-9776-167130b6f240,02/06/2023 09:30:08,rio grande do sul,33,condicionador de couro automotivo,49.9,1646.7
